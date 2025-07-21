@@ -1,0 +1,1471 @@
+Department,EducationField,JobRole,MaritalStatus,Gender,MonthlyIncome,TotalWorkingYears,YearsAtCompany,YearsWithCurrManager,JobLevel,DistanceFromHome,Age
+Sales,Life Sciences,Sales Executive,Single,Female,5993,8,6,5,2,1,41
+Research & Development,Life Sciences,Research Scientist,Married,Male,5130,10,10,7,2,8,49
+Research & Development,Other,Laboratory Technician,Single,Male,2090,7,0,0,1,2,37
+Research & Development,Life Sciences,Research Scientist,Married,Female,2909,8,8,0,1,3,33
+Research & Development,Medical,Laboratory Technician,Married,Male,3468,6,2,2,1,2,27
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,3068,8,7,6,1,2,32
+Research & Development,Medical,Laboratory Technician,Married,Female,2670,12,1,0,1,3,59
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,2693,1,1,0,1,24,30
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,9526,10,9,8,3,23,38
+Research & Development,Medical,Healthcare Representative,Married,Male,5237,17,7,7,2,27,36
+Research & Development,Medical,Laboratory Technician,Married,Male,2426,6,5,3,1,16,35
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,4193,10,9,8,2,15,29
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2911,5,5,3,1,26,31
+Research & Development,Medical,Laboratory Technician,Divorced,Male,2661,3,2,2,1,19,34
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2028,6,4,3,1,24,28
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Female,9980,10,10,8,3,21,29
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,3298,7,6,5,1,5,32
+Research & Development,Medical,Laboratory Technician,Divorced,Male,2935,1,1,0,1,16,22
+Sales,Life Sciences,Manager,Married,Female,15427,31,25,7,4,2,53
+Research & Development,Life Sciences,Research Scientist,Single,Male,3944,6,3,2,1,2,38
+Research & Development,Other,Manufacturing Director,Divorced,Female,4011,5,4,3,2,11,24
+Sales,Life Sciences,Sales Representative,Single,Male,3407,10,5,3,1,9,36
+Research & Development,Life Sciences,Research Director,Single,Female,11994,13,12,11,3,7,34
+Research & Development,Life Sciences,Research Scientist,Single,Male,1232,0,0,0,1,15,21
+Research & Development,Medical,Research Scientist,Single,Male,2960,8,4,3,1,6,34
+Research & Development,Other,Manager,Divorced,Female,19094,26,14,8,5,5,53
+Research & Development,Life Sciences,Research Scientist,Single,Female,3919,10,10,7,1,16,32
+Sales,Marketing,Sales Executive,Married,Male,6825,10,9,2,2,8,42
+Research & Development,Medical,Healthcare Representative,Married,Female,10248,24,22,17,3,7,44
+Sales,Marketing,Manager,Single,Female,18947,22,2,1,5,2,46
+Research & Development,Medical,Laboratory Technician,Single,Male,2496,7,1,0,1,2,33
+Research & Development,Other,Healthcare Representative,Married,Male,6465,9,4,3,2,10,44
+Research & Development,Medical,Laboratory Technician,Single,Male,2206,10,10,8,1,9,30
+Sales,Technical Degree,Sales Representative,Married,Male,2086,19,1,0,2,5,39
+Research & Development,Medical,Research Scientist,Married,Male,2293,6,2,0,1,1,24
+Research & Development,Medical,Research Scientist,Divorced,Female,2645,6,5,4,1,2,43
+Sales,Marketing,Sales Representative,Married,Male,2683,3,3,2,1,3,50
+Sales,Marketing,Sales Representative,Married,Female,2014,2,2,2,1,2,35
+Research & Development,Life Sciences,Research Scientist,Married,Female,3419,6,1,0,1,5,36
+Sales,Life Sciences,Sales Executive,Married,Female,5376,10,5,3,2,1,33
+Research & Development,Other,Laboratory Technician,Divorced,Male,1951,1,1,0,1,4,35
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Female,2341,1,1,0,1,2,27
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2293,1,1,1,1,25,26
+Sales,Life Sciences,Sales Executive,Single,Male,8726,9,9,7,3,8,27
+Research & Development,Medical,Laboratory Technician,Single,Female,4011,12,12,7,2,1,30
+Research & Development,Technical Degree,Research Director,Married,Female,19545,23,22,8,5,12,41
+Sales,Marketing,Sales Executive,Single,Male,4568,10,9,7,2,23,34
+Research & Development,Life Sciences,Research Scientist,Married,Male,3022,8,1,0,1,19,37
+Sales,Marketing,Sales Executive,Single,Male,5772,14,9,8,2,5,46
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2269,1,1,1,1,8,35
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,5381,23,1,0,3,1,48
+Research & Development,Technical Degree,Laboratory Technician,Single,Male,3441,2,2,2,1,5,28
+Sales,Marketing,Sales Executive,Divorced,Female,5454,9,4,3,2,1,44
+Research & Development,Medical,Healthcare Representative,Married,Male,9884,10,4,3,3,11,35
+Sales,Marketing,Sales Executive,Married,Female,4157,5,2,0,2,23,26
+Research & Development,Life Sciences,Research Director,Single,Female,13458,15,15,12,3,1,33
+Sales,Life Sciences,Sales Executive,Married,Male,9069,9,9,8,3,18,35
+Research & Development,Medical,Laboratory Technician,Married,Female,4014,4,2,2,1,23,35
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,5915,10,7,7,2,7,31
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Male,5993,7,7,7,2,1,37
+Research & Development,Medical,Manufacturing Director,Married,Male,6162,9,9,8,2,1,32
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,2406,10,10,9,2,29,38
+Research & Development,Medical,Research Director,Divorced,Female,18740,29,27,8,5,7,50
+Sales,Life Sciences,Sales Executive,Single,Female,7637,28,21,9,3,25,59
+Research & Development,Technical Degree,Healthcare Representative,Divorced,Female,10096,17,17,8,3,8,36
+Research & Development,Medical,Manager,Divorced,Female,14756,21,5,2,4,8,55
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,6499,6,6,3,2,11,36
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,9724,25,1,0,3,7,45
+Research & Development,Medical,Research Scientist,Married,Male,2194,5,3,2,1,1,35
+Research & Development,Medical,Research Scientist,Married,Male,3388,2,1,0,1,9,36
+Sales,Life Sciences,Sales Executive,Single,Female,5473,20,4,3,2,1,59
+Research & Development,Life Sciences,Research Scientist,Married,Male,2703,6,5,4,1,2,29
+Research & Development,Medical,Research Scientist,Single,Male,2501,1,1,0,1,1,31
+Research & Development,Life Sciences,Research Scientist,Married,Male,6220,10,10,9,2,1,32
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,3038,5,1,0,1,6,36
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,4424,11,11,8,2,8,31
+Sales,Marketing,Sales Executive,Single,Male,4312,16,15,8,2,1,35
+Research & Development,Other,Research Director,Married,Male,13245,17,0,0,3,6,45
+Research & Development,Medical,Research Director,Single,Male,13664,16,5,2,3,7,37
+Human Resources,Medical,Human Resources,Divorced,Male,5021,16,4,2,2,5,46
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,5126,10,10,0,2,1,30
+Research & Development,Medical,Research Scientist,Single,Male,2859,6,6,4,1,1,35
+Sales,Life Sciences,Sales Executive,Married,Male,10239,24,1,0,3,1,55
+Research & Development,Medical,Research Scientist,Divorced,Female,5329,17,13,9,2,6,38
+Research & Development,Medical,Manufacturing Director,Married,Male,4325,5,5,3,2,1,34
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,7260,37,6,2,3,7,56
+Sales,Technical Degree,Sales Representative,Divorced,Male,2322,3,0,0,1,2,23
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2075,10,4,3,1,9,51
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,4152,11,11,8,2,2,30
+Sales,Medical,Sales Executive,Single,Male,9619,9,9,7,3,9,46
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,13503,22,22,11,4,1,40
+Sales,Marketing,Sales Executive,Single,Male,5441,11,10,0,2,21,51
+Sales,Medical,Sales Executive,Divorced,Female,5209,11,11,7,2,4,30
+Research & Development,Medical,Healthcare Representative,Married,Male,10673,21,10,5,3,1,46
+Sales,Medical,Sales Executive,Single,Male,5010,12,11,7,2,6,32
+Research & Development,Technical Degree,Research Director,Married,Female,13549,16,4,3,3,2,54
+Sales,Other,Sales Executive,Married,Female,4999,4,3,2,2,3,24
+Sales,Medical,Sales Executive,Married,Male,4221,5,5,4,2,4,28
+Sales,Medical,Sales Executive,Single,Male,13872,38,37,8,4,10,58
+Research & Development,Medical,Laboratory Technician,Married,Male,2042,17,3,2,2,23,44
+Human Resources,Human Resources,Human Resources,Divorced,Male,2073,7,3,2,1,6,37
+Research & Development,Life Sciences,Research Scientist,Single,Male,2956,1,1,0,1,1,32
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,2926,1,1,0,1,6,20
+Research & Development,Other,Research Scientist,Single,Female,4809,16,16,10,2,6,34
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,5163,17,1,0,2,2,37
+Human Resources,Human Resources,Manager,Married,Female,18844,30,3,2,5,2,59
+Research & Development,Life Sciences,Research Director,Married,Female,18172,28,8,7,5,1,50
+Sales,Marketing,Sales Executive,Single,Male,5744,6,6,3,2,5,25
+Research & Development,Medical,Research Scientist,Married,Male,2889,2,2,1,1,7,25
+Research & Development,Medical,Laboratory Technician,Single,Female,2871,1,0,0,1,15,22
+Research & Development,Medical,Healthcare Representative,Single,Female,7484,23,13,8,3,1,51
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,6074,9,9,6,2,7,34
+Human Resources,Human Resources,Manager,Single,Female,17328,23,5,4,4,26,54
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2774,6,5,2,1,18,24
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,4505,12,1,0,2,6,34
+Sales,Life Sciences,Sales Executive,Single,Male,7428,12,5,3,3,3,37
+Research & Development,Medical,Manager,Single,Female,11631,14,11,8,3,5,34
+Sales,Technical Degree,Sales Executive,Married,Female,9738,10,9,8,3,11,36
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Female,2835,7,1,0,1,3,36
+Sales,Life Sciences,Manager,Married,Male,16959,25,25,12,4,26,43
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2613,10,10,9,1,23,30
+Sales,Marketing,Sales Executive,Married,Male,6146,8,7,7,2,22,33
+Research & Development,Life Sciences,Research Scientist,Married,Female,4963,7,5,3,1,14,56
+Research & Development,Life Sciences,Research Director,Single,Male,19537,23,20,15,5,6,51
+Sales,Life Sciences,Sales Executive,Married,Male,6172,12,7,7,2,6,31
+Research & Development,Other,Research Scientist,Married,Female,2368,5,5,3,1,6,26
+Research & Development,Medical,Healthcare Representative,Married,Female,10312,40,40,6,3,23,58
+Sales,Marketing,Sales Representative,Single,Male,1675,0,0,0,1,22,19
+Research & Development,Technical Degree,Laboratory Technician,Married,Male,2523,3,2,1,1,2,22
+Research & Development,Medical,Manufacturing Director,Married,Female,6567,16,15,11,2,20,49
+Research & Development,Medical,Research Scientist,Single,Female,4739,18,3,2,1,28,43
+Sales,Marketing,Sales Executive,Single,Female,9208,16,2,1,3,12,50
+Sales,Life Sciences,Sales Executive,Married,Female,4559,4,2,2,2,20,31
+Sales,Life Sciences,Sales Executive,Divorced,Male,8189,12,9,7,3,9,41
+Human Resources,Life Sciences,Human Resources,Married,Female,2942,8,8,7,1,25,26
+Research & Development,Medical,Manufacturing Director,Divorced,Male,4941,7,3,1,2,6,36
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,10650,18,4,3,3,8,51
+Sales,Life Sciences,Sales Executive,Married,Female,5902,17,15,9,2,4,39
+Sales,Life Sciences,Sales Executive,Married,Male,8639,6,2,2,2,28,25
+Human Resources,Human Resources,Human Resources,Married,Male,6347,12,11,7,2,9,30
+Research & Development,Medical,Laboratory Technician,Single,Female,4200,10,5,4,1,9,32
+Research & Development,Medical,Research Scientist,Single,Male,3452,9,6,3,1,29,45
+Research & Development,Technical Degree,Research Scientist,Single,Female,4317,19,3,2,2,3,38
+Research & Development,Life Sciences,Research Scientist,Single,Female,2632,5,5,4,1,18,30
+Sales,Medical,Sales Executive,Divorced,Male,4668,9,8,7,2,9,32
+Research & Development,Technical Degree,Research Scientist,Divorced,Female,3204,8,3,2,1,5,30
+Research & Development,Medical,Laboratory Technician,Single,Male,2720,6,5,2,1,2,30
+Research & Development,Life Sciences,Manager,Divorced,Male,17181,21,7,7,4,10,41
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2238,7,5,4,1,9,41
+Research & Development,Medical,Laboratory Technician,Single,Female,1483,1,1,0,1,3,19
+Research & Development,Medical,Research Scientist,Divorced,Female,5605,20,20,13,2,26,40
+Sales,Marketing,Sales Executive,Married,Male,7295,10,10,6,3,1,35
+Sales,Marketing,Sales Representative,Married,Male,2306,13,7,5,2,6,53
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,2348,20,17,15,2,9,45
+Sales,Marketing,Sales Executive,Single,Female,8998,9,9,7,3,8,32
+Research & Development,Technical Degree,Manufacturing Director,Married,Male,4319,10,10,9,2,1,29
+Research & Development,Medical,Manufacturing Director,Married,Male,6132,10,1,0,2,7,51
+Research & Development,Medical,Research Scientist,Married,Female,3346,9,1,0,1,9,58
+Sales,Marketing,Sales Executive,Married,Male,10855,15,12,11,3,4,40
+Sales,Marketing,Sales Representative,Married,Female,2231,6,4,2,1,2,34
+Research & Development,Medical,Research Scientist,Married,Male,2323,2,2,2,1,19,22
+Research & Development,Medical,Research Scientist,Divorced,Male,2024,6,2,2,1,9,27
+Research & Development,Medical,Research Scientist,Married,Male,2713,5,5,2,1,21,28
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,9439,12,5,4,3,24,57
+Research & Development,Medical,Research Scientist,Divorced,Male,2566,1,1,1,1,3,27
+Research & Development,Life Sciences,Manager,Single,Female,19926,21,5,4,5,11,50
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2451,13,9,8,1,14,41
+Sales,Life Sciences,Sales Executive,Married,Female,9419,12,10,4,3,5,30
+Sales,Life Sciences,Sales Executive,Single,Female,8686,12,8,7,2,1,38
+Research & Development,Life Sciences,Research Scientist,Single,Male,3038,8,5,4,1,6,32
+Research & Development,Technical Degree,Research Scientist,Married,Male,3058,6,5,1,1,17,27
+Sales,Technical Degree,Sales Representative,Single,Female,2325,1,0,0,1,1,19
+Research & Development,Medical,Laboratory Technician,Single,Male,2088,13,8,2,1,3,36
+Research & Development,Medical,Laboratory Technician,Divorced,Male,3072,12,12,10,2,9,30
+Sales,Life Sciences,Sales Executive,Divorced,Female,5006,9,5,3,2,4,45
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,4257,19,2,2,1,8,56
+Research & Development,Life Sciences,Research Scientist,Single,Male,2500,4,3,2,1,2,33
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,1102,1,1,0,1,2,19
+Sales,Marketing,Sales Executive,Divorced,Female,10453,24,24,7,3,1,46
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,2288,2,2,1,1,9,38
+Research & Development,Medical,Research Scientist,Married,Female,3929,7,4,2,1,12,31
+Research & Development,Medical,Research Scientist,Single,Female,2311,9,3,2,1,27,34
+Sales,Marketing,Sales Representative,Single,Female,3140,4,4,2,1,20,41
+Research & Development,Medical,Laboratory Technician,Married,Male,3690,5,3,2,1,1,50
+Research & Development,Medical,Manufacturing Director,Divorced,Female,4450,5,4,3,2,13,53
+Research & Development,Medical,Research Scientist,Married,Female,2756,8,8,6,1,14,33
+Research & Development,Medical,Manager,Married,Female,19033,21,20,9,5,4,40
+Research & Development,Medical,Research Director,Single,Male,18722,36,24,15,5,14,55
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,9547,10,10,9,2,2,34
+Research & Development,Medical,Healthcare Representative,Single,Female,13734,21,7,0,4,3,51
+Research & Development,Life Sciences,Manager,Married,Male,19999,34,33,9,5,1,52
+Research & Development,Medical,Research Scientist,Single,Female,2279,7,7,3,1,9,27
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,5916,8,1,1,2,23,35
+Research & Development,Medical,Research Scientist,Divorced,Male,2089,7,5,2,1,7,43
+Research & Development,Medical,Manager,Married,Male,16792,22,20,8,4,2,45
+Research & Development,Life Sciences,Research Scientist,Married,Male,3564,8,8,7,1,21,37
+Research & Development,Medical,Laboratory Technician,Single,Female,4425,10,6,2,2,2,35
+Research & Development,Medical,Manufacturing Director,Divorced,Female,5265,11,5,2,2,21,42
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,6553,14,1,0,2,2,38
+Research & Development,Technical Degree,Manufacturing Director,Married,Male,6261,9,7,7,2,29,38
+Research & Development,Technical Degree,Manufacturing Director,Married,Male,4298,6,2,0,2,1,27
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Male,6804,7,7,7,2,18,49
+Research & Development,Medical,Research Scientist,Divorced,Male,3815,5,5,0,1,10,34
+Research & Development,Medical,Laboratory Technician,Married,Male,2741,15,7,7,2,19,40
+Research & Development,Medical,Healthcare Representative,Married,Male,6673,17,1,0,2,29,38
+Sales,Marketing,Sales Executive,Married,Female,7639,10,10,9,3,27,29
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2328,4,4,2,1,5,22
+Research & Development,Medical,Laboratory Technician,Single,Female,2153,8,8,7,1,18,36
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,4876,5,3,2,2,9,40
+Research & Development,Medical,Healthcare Representative,Divorced,Male,9396,17,4,3,3,1,46
+Sales,Medical,Sales Executive,Married,Male,10400,14,14,8,3,4,32
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,8474,12,11,8,3,1,30
+Sales,Life Sciences,Sales Executive,Single,Female,9981,7,7,7,2,20,27
+Research & Development,Life Sciences,Research Director,Married,Male,12490,16,10,7,3,8,51
+Research & Development,Technical Degree,Research Scientist,Single,Female,2657,8,5,4,1,3,30
+Sales,Life Sciences,Manager,Single,Female,13591,16,1,0,3,6,41
+Sales,Marketing,Sales Executive,Single,Female,6696,9,6,1,2,26,30
+Research & Development,Technical Degree,Research Scientist,Single,Male,2058,7,6,5,1,1,29
+Sales,Medical,Sales Executive,Single,Female,8865,23,19,8,3,6,45
+Sales,Marketing,Sales Executive,Married,Female,5940,16,6,5,2,3,54
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,5914,16,13,7,2,5,36
+Research & Development,Medical,Research Scientist,Married,Female,2622,7,3,1,1,4,33
+Research & Development,Other,Research Director,Divorced,Male,12185,10,10,7,3,11,37
+Sales,Life Sciences,Sales Executive,Divorced,Male,10609,17,16,13,3,3,38
+Research & Development,Medical,Manufacturing Director,Married,Male,4345,6,5,4,2,1,31
+Research & Development,Life Sciences,Research Scientist,Married,Male,2177,7,1,0,1,3,59
+Sales,Marketing,Sales Representative,Divorced,Male,2793,13,9,8,1,4,37
+Sales,Medical,Sales Executive,Married,Female,7918,11,11,1,3,1,29
+Sales,Marketing,Sales Executive,Single,Female,8789,10,10,8,3,1,35
+Research & Development,Medical,Research Scientist,Single,Male,2389,4,4,1,1,18,29
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,3212,6,2,2,1,2,52
+Research & Development,Technical Degree,Manager,Married,Male,19232,22,22,15,5,4,42
+Human Resources,Medical,Human Resources,Married,Male,2267,7,2,2,1,6,59
+Sales,Medical,Manager,Divorced,Female,19517,32,7,6,5,1,50
+Research & Development,Medical,Laboratory Technician,Married,Male,2436,8,5,4,1,14,33
+Sales,Marketing,Manager,Married,Female,16064,22,17,9,4,16,43
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,2707,13,9,7,1,2,33
+Sales,Life Sciences,Manager,Single,Male,19068,33,33,12,5,2,52
+Sales,Life Sciences,Sales Representative,Married,Female,3931,6,4,2,1,4,32
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,3730,4,3,2,1,1,32
+Research & Development,Medical,Laboratory Technician,Divorced,Female,2232,7,3,2,1,1,39
+Sales,Marketing,Sales Executive,Married,Male,4465,4,3,2,2,26,32
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,3072,17,1,0,2,19,41
+Research & Development,Technical Degree,Research Scientist,Divorced,Male,3319,9,9,7,2,24,40
+Research & Development,Other,Manager,Married,Male,19202,25,24,7,5,1,45
+Research & Development,Medical,Research Director,Divorced,Male,13675,9,2,2,3,3,31
+Research & Development,Life Sciences,Research Scientist,Married,Female,2911,2,2,2,1,5,33
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,5957,13,11,9,2,2,34
+Research & Development,Medical,Research Scientist,Married,Female,3920,17,3,2,1,1,37
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,6434,9,3,2,2,7,45
+Research & Development,Medical,Manufacturing Director,Divorced,Male,10048,17,1,0,3,10,37
+Research & Development,Technical Degree,Healthcare Representative,Single,Female,10938,20,19,8,3,2,39
+Research & Development,Life Sciences,Research Scientist,Single,Male,2340,6,6,5,1,15,29
+Research & Development,Life Sciences,Research Scientist,Single,Female,6545,10,3,2,2,17,42
+Sales,Marketing,Sales Executive,Divorced,Male,6931,10,3,2,2,20,29
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,4898,5,4,2,2,1,25
+Research & Development,Medical,Laboratory Technician,Divorced,Female,2593,10,9,8,1,2,42
+Research & Development,Medical,Research Director,Divorced,Male,19436,22,21,9,5,2,40
+Research & Development,Life Sciences,Research Scientist,Married,Male,2723,1,1,0,1,1,51
+Research & Development,Medical,Laboratory Technician,Single,Male,3479,6,5,4,1,29,31
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2794,5,5,3,1,7,32
+Sales,Life Sciences,Sales Executive,Married,Male,5249,13,8,5,2,2,38
+Research & Development,Technical Degree,Laboratory Technician,Single,Male,2176,9,6,4,2,2,32
+Sales,Technical Degree,Manager,Married,Female,16872,28,7,7,4,2,46
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,3485,5,0,0,1,2,28
+Sales,Medical,Sales Executive,Married,Male,6644,10,0,0,2,2,29
+Research & Development,Medical,Healthcare Representative,Married,Male,5582,10,9,8,2,23,31
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,4000,6,6,5,2,5,25
+Research & Development,Medical,Healthcare Representative,Married,Male,13496,21,20,10,4,20,45
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,3210,16,15,11,1,6,36
+Research & Development,Medical,Manager,Single,Male,19045,37,36,13,5,1,55
+Research & Development,Life Sciences,Manager,Married,Male,11849,10,10,9,3,29,47
+Research & Development,Medical,Research Scientist,Married,Male,2070,5,5,4,1,9,28
+Sales,Medical,Sales Executive,Married,Male,6502,7,5,1,2,6,37
+Research & Development,Medical,Research Scientist,Single,Male,3230,3,3,0,1,3,21
+Research & Development,Medical,Research Director,Divorced,Female,13603,15,5,2,3,1,37
+Research & Development,Life Sciences,Manager,Divorced,Female,11996,10,7,2,3,22,35
+Sales,Medical,Sales Executive,Divorced,Female,5605,8,8,7,2,7,38
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Female,6397,6,6,4,2,1,26
+Research & Development,Life Sciences,Research Director,Divorced,Male,19144,28,10,6,5,4,50
+Research & Development,Medical,Research Director,Married,Male,17584,21,5,3,4,3,53
+Sales,Life Sciences,Sales Executive,Married,Male,4907,20,20,6,2,1,42
+Sales,Life Sciences,Sales Executive,Single,Male,4554,10,10,9,2,2,29
+Research & Development,Technical Degree,Laboratory Technician,Married,Male,5415,12,10,8,2,20,55
+Research & Development,Medical,Healthcare Representative,Married,Male,4741,5,5,3,2,11,26
+Research & Development,Life Sciences,Research Scientist,Single,Female,2115,17,17,7,1,1,37
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,3161,19,1,0,1,24,44
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,5745,10,2,2,2,23,38
+Research & Development,Medical,Laboratory Technician,Divorced,Male,2373,5,3,2,1,16,26
+Research & Development,Life Sciences,Research Scientist,Single,Female,3310,5,5,2,1,8,28
+Research & Development,Life Sciences,Research Director,Single,Female,18665,22,3,2,5,10,49
+Research & Development,Technical Degree,Research Scientist,Single,Male,4485,10,8,7,2,3,36
+Sales,Marketing,Sales Representative,Divorced,Female,2789,2,2,2,1,5,31
+Sales,Marketing,Sales Executive,Single,Male,5828,8,8,4,2,4,26
+Research & Development,Medical,Research Scientist,Married,Male,2326,4,4,2,1,9,37
+Sales,Marketing,Sales Executive,Married,Female,13525,23,20,8,4,26,42
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,1420,0,0,0,1,3,18
+Sales,Marketing,Sales Executive,Married,Male,8020,12,11,9,3,16,35
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,3688,4,1,0,1,18,36
+Research & Development,Medical,Manufacturing Director,Divorced,Male,5482,13,4,2,2,2,51
+Sales,Life Sciences,Manager,Single,Male,16015,22,22,4,4,2,41
+Sales,Medical,Sales Representative,Single,Female,1200,0,0,0,1,10,18
+Research & Development,Medical,Healthcare Representative,Single,Male,5661,9,8,7,2,16,28
+Sales,Technical Degree,Sales Executive,Married,Male,6929,10,8,7,2,7,31
+Research & Development,Medical,Healthcare Representative,Divorced,Male,9613,19,18,7,3,1,39
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,5674,11,9,8,2,24,36
+Sales,Life Sciences,Sales Executive,Married,Male,5484,13,13,8,2,7,32
+Research & Development,Life Sciences,Research Director,Married,Female,12061,19,10,1,3,25,38
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,5660,12,5,2,2,1,58
+Research & Development,Technical Degree,Research Scientist,Married,Male,4821,6,5,3,1,5,31
+Human Resources,Human Resources,Human Resources,Married,Male,6410,9,2,0,2,2,31
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,5210,24,24,11,3,7,45
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2695,3,2,2,1,2,31
+Research & Development,Life Sciences,Manager,Married,Female,11878,12,10,8,3,5,33
+Research & Development,Medical,Manager,Married,Male,17068,21,21,10,4,10,39
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,2455,9,8,7,1,10,43
+Research & Development,Technical Degree,Healthcare Representative,Single,Female,13964,25,7,7,4,1,49
+Research & Development,Medical,Research Scientist,Married,Male,4941,11,8,7,2,8,52
+Research & Development,Life Sciences,Research Scientist,Single,Female,2478,4,4,2,1,5,27
+Sales,Technical Degree,Sales Executive,Married,Female,5228,13,13,9,2,8,32
+Sales,Life Sciences,Sales Executive,Single,Male,4478,5,5,4,2,2,27
+Sales,Marketing,Sales Executive,Divorced,Male,7547,13,7,7,2,7,31
+Research & Development,Medical,Research Scientist,Single,Female,5055,10,7,7,2,2,32
+Research & Development,Medical,Research Scientist,Married,Male,3464,5,3,2,1,2,28
+Research & Development,Medical,Research Scientist,Married,Female,5775,11,10,9,2,28,30
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,8943,10,10,9,3,7,31
+Research & Development,Medical,Manager,Married,Male,19272,21,21,3,5,7,39
+Sales,Medical,Sales Executive,Married,Female,5238,12,1,0,2,3,39
+Sales,Marketing,Sales Executive,Single,Male,4682,9,7,1,2,10,33
+Research & Development,Life Sciences,Research Director,Married,Male,18300,21,3,1,5,5,47
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Female,5257,9,9,0,2,10,43
+Sales,Marketing,Sales Executive,Married,Male,6349,6,5,4,2,1,27
+Research & Development,Life Sciences,Research Scientist,Single,Female,4869,20,4,3,2,20,54
+Research & Development,Life Sciences,Healthcare Representative,Married,Female,9985,10,1,0,3,7,43
+Research & Development,Other,Research Scientist,Married,Male,3697,12,10,8,2,8,45
+Sales,Medical,Sales Executive,Married,Male,7457,6,4,2,2,1,40
+Research & Development,Other,Laboratory Technician,Married,Male,2119,7,7,7,1,8,29
+Research & Development,Other,Laboratory Technician,Single,Male,3983,4,3,2,1,9,29
+Sales,Marketing,Sales Executive,Divorced,Female,6118,10,10,2,2,5,30
+Sales,Marketing,Sales Executive,Married,Female,6214,8,8,7,2,8,27
+Research & Development,Medical,Manufacturing Director,Divorced,Male,6347,8,6,4,2,5,37
+Research & Development,Life Sciences,Research Director,Divorced,Male,11510,12,11,9,3,15,38
+Research & Development,Medical,Manufacturing Director,Single,Female,7143,11,11,10,3,7,31
+Sales,Marketing,Sales Executive,Divorced,Female,8268,7,7,7,2,10,29
+Research & Development,Technical Degree,Manufacturing Director,Single,Male,8095,17,16,13,3,5,35
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2904,4,4,2,1,26,23
+Research & Development,Medical,Manufacturing Director,Single,Male,6032,8,5,2,2,6,41
+Sales,Medical,Sales Representative,Single,Male,2976,5,0,0,2,4,47
+Research & Development,Life Sciences,Research Director,Single,Female,15992,16,1,0,4,23,42
+Sales,Life Sciences,Sales Executive,Married,Male,4649,4,4,2,2,2,29
+Human Resources,Technical Degree,Human Resources,Divorced,Male,2696,4,3,0,1,2,42
+Research & Development,Medical,Laboratory Technician,Married,Female,2370,8,8,7,1,2,32
+Sales,Medical,Manager,Married,Female,12504,15,0,0,3,29,48
+Research & Development,Medical,Research Scientist,Divorced,Male,5974,13,7,7,2,6,37
+Sales,Technical Degree,Sales Executive,Married,Female,4736,4,2,2,2,25,30
+Sales,Life Sciences,Sales Executive,Married,Male,5296,8,8,7,2,1,26
+Research & Development,Other,Healthcare Representative,Single,Male,6781,14,1,0,2,2,42
+Sales,Technical Degree,Sales Representative,Single,Female,2174,3,3,2,1,1,21
+Sales,Medical,Sales Executive,Single,Female,6653,7,1,0,2,1,36
+Sales,Medical,Sales Executive,Married,Male,9699,16,13,12,3,3,36
+Research & Development,Medical,Healthcare Representative,Married,Male,6755,15,3,2,2,1,57
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,2213,10,7,7,1,10,40
+Sales,Medical,Sales Representative,Single,Male,2610,3,3,2,1,9,21
+Sales,Marketing,Sales Representative,Single,Female,2851,1,1,0,1,5,33
+Research & Development,Medical,Laboratory Technician,Married,Female,3452,17,5,3,1,10,37
+Research & Development,Medical,Manufacturing Director,Married,Female,5258,7,1,0,2,7,46
+Sales,Marketing,Sales Executive,Single,Male,9355,8,8,7,2,4,41
+Research & Development,Technical Degree,Healthcare Representative,Single,Male,10496,20,4,3,3,10,50
+Sales,Marketing,Sales Executive,Married,Male,6380,8,6,0,2,22,40
+Research & Development,Life Sciences,Research Scientist,Single,Male,2657,3,2,2,1,9,31
+Sales,Life Sciences,Sales Representative,Single,Female,2716,1,1,0,1,12,21
+Research & Development,Life Sciences,Research Scientist,Single,Male,2201,6,3,2,1,23,29
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,6540,10,1,0,2,9,35
+Research & Development,Medical,Laboratory Technician,Divorced,Male,3816,5,5,4,1,1,27
+Sales,Life Sciences,Sales Executive,Single,Male,5253,7,7,7,2,9,28
+Research & Development,Other,Healthcare Representative,Single,Male,10965,26,5,0,3,7,49
+Sales,Life Sciences,Sales Executive,Married,Female,4936,18,7,7,2,14,51
+Research & Development,Life Sciences,Research Scientist,Married,Female,2543,6,2,2,1,2,36
+Sales,Marketing,Sales Executive,Single,Male,5304,9,5,4,2,19,34
+Research & Development,Life Sciences,Manager,Single,Female,16659,30,5,2,4,2,55
+Sales,Marketing,Sales Executive,Divorced,Female,4260,5,5,3,2,10,24
+Sales,Technical Degree,Sales Representative,Married,Male,2476,1,1,0,1,2,30
+Research & Development,Technical Degree,Research Scientist,Single,Male,3102,7,6,4,1,3,26
+Research & Development,Medical,Research Scientist,Married,Female,2244,2,2,2,1,11,22
+Sales,Medical,Sales Executive,Married,Male,7596,10,10,0,3,2,36
+Research & Development,Technical Degree,Research Scientist,Single,Male,2285,3,1,0,1,4,30
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Female,3034,18,18,17,1,14,37
+Sales,Marketing,Sales Executive,Divorced,Female,5715,8,5,3,2,2,40
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Female,2576,8,5,2,1,1,42
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,4197,18,1,1,2,10,37
+Research & Development,Life Sciences,Research Director,Divorced,Male,14336,25,25,9,4,12,43
+Research & Development,Medical,Laboratory Technician,Married,Female,3448,20,1,0,2,2,40
+Research & Development,Medical,Research Director,Married,Male,19406,24,4,2,5,5,54
+Sales,Marketing,Sales Executive,Married,Female,6538,6,3,2,2,4,34
+Research & Development,Medical,Manufacturing Director,Married,Female,4306,13,13,12,2,7,31
+Research & Development,Medical,Laboratory Technician,Married,Male,2258,8,3,2,1,21,43
+Research & Development,Other,Healthcare Representative,Divorced,Female,4522,8,5,2,2,8,43
+Sales,Life Sciences,Sales Executive,Single,Female,4487,5,5,3,2,4,25
+Research & Development,Medical,Research Scientist,Married,Female,4449,15,13,7,2,25,37
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2218,4,4,2,1,1,31
+Research & Development,Life Sciences,Manager,Divorced,Male,19197,21,21,6,5,1,39
+Sales,Life Sciences,Sales Executive,Married,Female,13212,36,7,7,4,6,56
+Sales,Technical Degree,Sales Executive,Single,Female,6577,6,5,4,2,12,30
+Sales,Marketing,Sales Executive,Married,Male,8392,10,10,7,3,1,41
+Research & Development,Medical,Laboratory Technician,Divorced,Male,4558,10,10,8,2,17,28
+Research & Development,Medical,Laboratory Technician,Married,Male,4031,6,2,2,1,3,25
+Research & Development,Medical,Manufacturing Director,Married,Male,7969,28,5,4,3,3,52
+Research & Development,Life Sciences,Research Scientist,Married,Male,2654,8,2,2,1,10,45
+Research & Development,Life Sciences,Manager,Married,Female,16555,31,5,4,4,4,52
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,4556,19,5,2,2,29,42
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,6091,11,5,2,2,2,30
+Research & Development,Life Sciences,Manager,Married,Female,19566,33,29,10,5,7,60
+Research & Development,Medical,Manufacturing Director,Divorced,Female,4810,19,10,8,2,18,46
+Research & Development,Technical Degree,Healthcare Representative,Married,Female,4523,7,6,4,2,28,42
+Sales,Technical Degree,Sales Representative,Single,Female,3202,6,5,4,1,1,24
+Sales,Marketing,Sales Representative,Divorced,Female,2351,3,2,0,1,6,34
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,1702,1,1,0,1,2,38
+Sales,Life Sciences,Manager,Married,Female,18041,21,20,12,5,2,40
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,2886,3,3,2,1,23,26
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2097,9,5,4,1,3,30
+Research & Development,Medical,Research Director,Married,Male,11935,10,10,7,3,3,29
+Research & Development,Technical Degree,Research Scientist,Married,Female,2546,6,2,1,1,25,29
+Human Resources,Technical Degree,Human Resources,Single,Male,2564,1,1,0,1,2,19
+Sales,Other,Sales Executive,Married,Female,8412,10,9,8,3,22,30
+Sales,Marketing,Manager,Divorced,Male,14118,32,1,0,4,29,57
+Research & Development,Life Sciences,Manager,Married,Male,17046,28,27,7,4,29,50
+Research & Development,Medical,Laboratory Technician,Single,Female,2564,12,11,7,1,2,30
+Sales,Marketing,Sales Executive,Married,Female,10266,22,18,11,3,28,60
+Research & Development,Medical,Manufacturing Director,Divorced,Female,5070,20,5,4,2,2,47
+Research & Development,Life Sciences,Research Director,Married,Male,17861,26,3,1,4,2,46
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,4230,6,5,3,1,22,35
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,3780,19,1,0,2,8,54
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2768,14,7,7,1,2,34
+Sales,Marketing,Sales Executive,Married,Female,9071,15,3,2,3,10,46
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Male,10648,13,13,8,3,9,31
+Research & Development,Medical,Manager,Married,Male,13610,15,7,7,3,15,33
+Research & Development,Medical,Laboratory Technician,Divorced,Male,3408,8,4,3,1,10,33
+Sales,Marketing,Sales Representative,Single,Male,2983,4,3,2,1,7,30
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,7632,10,8,0,3,16,35
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,9824,12,1,0,3,20,31
+Human Resources,Human Resources,Human Resources,Divorced,Female,9950,11,3,2,3,23,34
+Research & Development,Other,Laboratory Technician,Married,Male,2093,8,2,0,1,5,42
+Sales,Medical,Sales Executive,Single,Male,9980,10,10,7,3,10,36
+Research & Development,Technical Degree,Laboratory Technician,Single,Male,3894,4,2,2,1,4,22
+Sales,Marketing,Sales Executive,Married,Female,4051,14,9,7,2,2,48
+Sales,Life Sciences,Manager,Single,Female,16835,37,10,7,4,18,55
+Sales,Life Sciences,Sales Executive,Single,Male,6230,16,14,10,2,10,41
+Sales,Marketing,Sales Executive,Married,Male,4717,15,11,9,2,1,35
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,13237,22,20,13,4,6,40
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,3755,8,8,7,1,8,39
+Sales,Life Sciences,Sales Executive,Single,Male,6582,10,6,5,2,2,31
+Research & Development,Medical,Manufacturing Director,Married,Male,7406,10,10,8,3,24,42
+Sales,Other,Sales Executive,Married,Male,4805,9,8,7,2,2,45
+Human Resources,Life Sciences,Human Resources,Divorced,Female,2741,8,7,0,1,17,26
+Research & Development,Technical Degree,Manufacturing Director,Divorced,Male,4262,8,3,2,2,19,29
+Research & Development,Medical,Research Director,Divorced,Female,16184,10,6,5,4,1,33
+Sales,Life Sciences,Manager,Divorced,Male,11557,10,5,1,3,7,31
+Sales,Marketing,Sales Representative,Single,Male,1878,0,0,0,1,5,18
+Sales,Other,Sales Executive,Divorced,Male,10932,20,1,1,3,28,40
+Research & Development,Other,Healthcare Representative,Single,Female,6811,10,8,7,2,2,41
+Sales,Medical,Sales Executive,Divorced,Male,4306,8,0,0,2,29,26
+Sales,Medical,Sales Executive,Single,Female,4859,5,5,3,2,1,35
+Sales,Life Sciences,Sales Executive,Single,Male,5337,10,10,7,2,21,34
+Research & Development,Technical Degree,Laboratory Technician,Single,Male,2340,1,1,0,1,24,26
+Research & Development,Technical Degree,Manufacturing Director,Single,Female,7491,12,6,2,3,1,37
+Research & Development,Medical,Healthcare Representative,Married,Female,10527,28,2,2,3,18,46
+Sales,Life Sciences,Manager,Married,Female,16595,22,18,8,4,2,41
+Sales,Medical,Sales Executive,Divorced,Male,8834,9,9,7,3,9,37
+Research & Development,Technical Degree,Research Scientist,Divorced,Male,5577,18,10,9,2,6,52
+Sales,Other,Sales Executive,Married,Male,4707,6,4,2,2,11,32
+Sales,Medical,Sales Representative,Married,Male,2400,3,2,1,1,24,24
+Research & Development,Medical,Healthcare Representative,Married,Female,9824,18,1,0,2,10,38
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,6447,8,6,3,2,1,37
+Research & Development,Life Sciences,Research Director,Divorced,Male,19502,31,31,9,5,18,49
+Research & Development,Medical,Research Scientist,Married,Male,2725,6,6,4,1,23,24
+Sales,Marketing,Sales Executive,Married,Male,6272,6,5,4,2,28,26
+Research & Development,Other,Laboratory Technician,Married,Male,2127,1,1,0,1,17,24
+Human Resources,Medical,Manager,Married,Male,18200,32,32,7,5,3,50
+Sales,Medical,Sales Representative,Married,Male,2096,7,7,6,1,13,25
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,2886,6,6,2,1,7,24
+Sales,Life Sciences,Sales Representative,Married,Male,2033,1,1,0,1,12,30
+Research & Development,Life Sciences,Research Scientist,Married,Male,3622,6,6,3,1,1,34
+Sales,Medical,Sales Executive,Divorced,Male,4233,9,3,2,2,13,31
+Research & Development,Other,Laboratory Technician,Single,Male,3681,9,3,2,2,25,35
+Sales,Medical,Sales Executive,Divorced,Male,5460,13,7,7,2,6,31
+Research & Development,Medical,Research Scientist,Divorced,Female,2187,6,5,3,1,6,27
+Sales,Marketing,Sales Executive,Married,Male,9602,17,3,0,2,2,37
+Research & Development,Life Sciences,Research Scientist,Single,Female,2836,1,1,0,1,1,20
+Research & Development,Life Sciences,Healthcare Representative,Married,Female,4089,10,10,2,2,2,42
+Research & Development,Other,Research Director,Divorced,Male,16627,21,1,0,4,6,43
+Research & Development,Life Sciences,Research Scientist,Single,Female,2619,8,0,0,1,1,38
+Research & Development,Medical,Laboratory Technician,Divorced,Male,5679,10,8,7,2,9,43
+Research & Development,Life Sciences,Manager,Married,Female,15402,21,3,2,4,1,48
+Human Resources,Life Sciences,Human Resources,Single,Female,5985,10,2,2,2,1,44
+Sales,Technical Degree,Sales Representative,Divorced,Female,2579,8,8,6,1,14,34
+Sales,Marketing,Sales Representative,Divorced,Male,3041,5,4,2,1,2,27
+Sales,Technical Degree,Sales Representative,Single,Male,3447,3,3,2,1,22,21
+Research & Development,Other,Manager,Married,Male,19513,26,2,1,5,3,44
+Research & Development,Medical,Research Scientist,Married,Male,2773,3,2,2,1,6,22
+Sales,Marketing,Sales Executive,Divorced,Male,7104,6,5,2,2,8,33
+Research & Development,Life Sciences,Research Scientist,Married,Female,6322,6,6,5,2,9,32
+Research & Development,Medical,Research Scientist,Divorced,Female,2083,1,1,0,1,3,30
+Sales,Medical,Sales Executive,Single,Female,8381,18,14,10,2,1,53
+Research & Development,Life Sciences,Research Scientist,Married,Male,2691,10,10,8,1,1,34
+Sales,Life Sciences,Sales Executive,Married,Female,4286,5,1,0,2,26,45
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,2659,3,3,2,1,6,26
+Research & Development,Other,Manufacturing Director,Married,Male,9434,10,10,8,3,3,37
+Sales,Medical,Sales Executive,Married,Female,5561,6,6,2,2,3,29
+Research & Development,Life Sciences,Research Scientist,Single,Male,6646,17,17,8,2,6,35
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,7725,15,13,7,2,6,33
+Human Resources,Medical,Human Resources,Married,Male,10725,16,9,1,3,19,54
+Research & Development,Medical,Manufacturing Director,Divorced,Male,8847,13,3,2,2,9,36
+Research & Development,Medical,Research Scientist,Single,Male,2045,5,4,1,1,3,27
+Research & Development,Medical,Research Scientist,Single,Male,1009,1,1,1,1,10,20
+Research & Development,Life Sciences,Research Scientist,Single,Male,3348,10,10,7,1,3,33
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,1281,1,1,0,1,3,35
+Research & Development,Medical,Research Scientist,Married,Male,2819,5,3,2,1,4,23
+Sales,Life Sciences,Sales Executive,Married,Male,4851,4,3,2,2,8,25
+Sales,Marketing,Sales Executive,Single,Female,4028,8,7,5,2,7,38
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2720,10,10,8,1,1,29
+Sales,Marketing,Sales Executive,Married,Male,8120,12,2,2,2,2,48
+Sales,Medical,Sales Executive,Divorced,Female,4647,6,6,4,2,3,27
+Research & Development,Life Sciences,Research Scientist,Single,Male,4680,4,1,0,1,10,37
+Research & Development,Medical,Laboratory Technician,Married,Male,3221,20,20,8,1,28,50
+Research & Development,Medical,Healthcare Representative,Single,Female,8621,9,8,7,3,9,34
+Sales,Life Sciences,Sales Executive,Single,Female,4577,4,2,0,2,3,24
+Research & Development,Technical Degree,Healthcare Representative,Single,Female,4553,20,20,10,2,2,39
+Sales,Marketing,Sales Executive,Single,Male,5396,10,10,8,2,10,32
+Sales,Technical Degree,Sales Executive,Married,Male,6796,18,4,3,2,8,50
+Research & Development,Life Sciences,Healthcare Representative,Single,Female,7625,10,9,8,2,1,38
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,7412,9,9,7,3,1,27
+Research & Development,Life Sciences,Research Director,Single,Female,11159,10,7,7,3,3,32
+Sales,Marketing,Sales Executive,Single,Male,4960,20,7,7,2,14,47
+Sales,Life Sciences,Sales Executive,Married,Male,10475,20,18,12,3,5,40
+Research & Development,Life Sciences,Research Director,Married,Male,14814,32,5,3,4,7,53
+Human Resources,Human Resources,Manager,Divorced,Male,19141,23,21,6,5,10,41
+Sales,Marketing,Sales Executive,Single,Male,5405,10,2,2,2,16,60
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Male,8793,9,9,7,3,10,27
+Human Resources,Human Resources,Manager,Married,Male,19189,22,22,10,5,1,41
+Sales,Marketing,Sales Representative,Married,Male,3875,4,2,2,1,8,50
+Research & Development,Life Sciences,Research Scientist,Single,Female,2216,10,7,7,1,1,28
+Research & Development,Life Sciences,Research Director,Married,Female,11713,10,8,5,3,8,36
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,7861,10,1,0,3,1,38
+Research & Development,Medical,Laboratory Technician,Single,Male,3708,9,5,4,1,24,44
+Sales,Medical,Sales Executive,Divorced,Female,13770,28,22,13,4,3,47
+Sales,Marketing,Sales Executive,Divorced,Male,5304,10,8,7,2,27,30
+Sales,Life Sciences,Sales Representative,Single,Male,2642,1,1,0,1,10,29
+Research & Development,Medical,Research Scientist,Divorced,Male,2759,7,2,2,1,19,42
+Sales,Life Sciences,Sales Executive,Married,Male,6804,7,2,2,2,15,43
+Research & Development,Medical,Healthcare Representative,Single,Female,6142,10,5,3,2,8,34
+Research & Development,Medical,Laboratory Technician,Married,Male,2500,5,4,2,1,9,23
+Human Resources,Human Resources,Human Resources,Married,Female,6389,12,8,6,2,3,39
+Research & Development,Medical,Healthcare Representative,Married,Male,11103,30,10,1,4,9,56
+Research & Development,Medical,Research Scientist,Single,Female,2342,5,4,3,1,2,40
+Research & Development,Medical,Healthcare Representative,Single,Female,6811,9,7,7,2,7,27
+Sales,Marketing,Sales Representative,Divorced,Male,2297,2,2,2,1,10,29
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2450,19,2,2,2,6,53
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Female,5093,16,1,0,2,2,35
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,5309,10,10,7,2,24,32
+Research & Development,Medical,Research Scientist,Married,Male,3057,6,1,1,1,2,38
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Female,5121,7,0,0,2,8,34
+Sales,Marketing,Manager,Married,Male,16856,34,34,16,4,3,52
+Research & Development,Other,Research Scientist,Single,Male,2686,10,10,8,1,1,33
+Sales,Medical,Sales Executive,Single,Female,6180,6,6,4,2,26,25
+Sales,Technical Degree,Sales Representative,Single,Male,6632,9,8,1,2,2,45
+Research & Development,Medical,Research Scientist,Single,Male,3505,2,2,2,1,10,23
+Sales,Life Sciences,Sales Executive,Single,Female,6397,8,5,3,2,27,47
+Sales,Other,Sales Executive,Single,Male,6274,6,6,4,2,2,34
+Research & Development,Medical,Manager,Married,Male,19859,24,5,4,5,2,55
+Sales,Life Sciences,Sales Executive,Single,Male,7587,10,10,9,3,8,36
+Research & Development,Medical,Research Scientist,Married,Male,4258,5,4,2,1,19,52
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Female,4364,5,2,0,1,1,26
+Research & Development,Medical,Healthcare Representative,Married,Female,4335,11,8,1,2,27,29
+Sales,Technical Degree,Sales Executive,Single,Male,5326,6,4,2,2,8,26
+Research & Development,Life Sciences,Research Scientist,Single,Female,3280,10,4,3,1,1,34
+Research & Development,Medical,Manufacturing Director,Divorced,Female,5485,9,5,4,2,19,54
+Sales,Marketing,Sales Executive,Married,Male,4342,5,4,1,2,8,27
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,2782,6,5,3,1,10,37
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,5980,17,15,12,2,2,38
+Research & Development,Medical,Research Scientist,Single,Female,4381,6,6,3,1,2,34
+Sales,Life Sciences,Sales Representative,Married,Female,2572,3,3,2,1,8,35
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,3833,7,2,2,1,1,30
+Research & Development,Medical,Healthcare Representative,Married,Female,4244,8,8,7,2,2,40
+Sales,Life Sciences,Sales Executive,Married,Female,6500,6,3,2,2,8,34
+Research & Development,Life Sciences,Manager,Divorced,Male,18430,24,24,9,5,8,42
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,1601,1,0,0,1,6,23
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,2694,1,1,0,1,9,24
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,3149,9,5,4,2,11,52
+Research & Development,Medical,Research Director,Married,Male,17639,30,4,3,4,2,50
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,2319,1,1,0,1,1,29
+Research & Development,Medical,Research Director,Married,Male,11691,14,13,7,3,7,33
+Sales,Marketing,Sales Executive,Single,Female,5324,6,3,2,2,16,33
+Research & Development,Other,Manager,Married,Female,16752,26,26,0,4,2,47
+Research & Development,Other,Manufacturing Director,Married,Female,5228,10,9,5,2,1,36
+Research & Development,Life Sciences,Research Scientist,Married,Male,2700,10,10,7,1,23,29
+Research & Development,Life Sciences,Research Director,Single,Male,19246,40,31,8,5,2,58
+Research & Development,Life Sciences,Research Scientist,Single,Female,2506,7,2,2,1,1,35
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,6062,8,4,2,2,1,42
+Research & Development,Medical,Research Scientist,Single,Male,4382,5,2,1,1,2,28
+Human Resources,Human Resources,Human Resources,Married,Male,2143,8,5,4,1,13,36
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,6162,14,14,8,2,4,32
+Research & Development,Medical,Laboratory Technician,Single,Male,5094,10,1,0,2,16,40
+Research & Development,Medical,Manufacturing Director,Single,Female,6877,12,0,0,2,2,30
+Research & Development,Life Sciences,Research Scientist,Single,Female,2274,1,1,0,1,2,45
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,4434,10,9,8,2,29,42
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,6288,13,4,2,2,12,38
+Research & Development,Life Sciences,Research Scientist,Single,Female,2553,6,5,3,1,16,34
+Sales,Marketing,Sales Executive,Married,Female,7654,9,9,7,3,11,49
+Sales,Medical,Sales Executive,Single,Male,5160,12,9,3,2,2,55
+Research & Development,Life Sciences,Research Director,Married,Male,17159,22,4,0,4,14,43
+Research & Development,Technical Degree,Research Director,Divorced,Male,12808,9,9,8,3,5,27
+Research & Development,Other,Manufacturing Director,Single,Male,10221,17,8,6,3,7,35
+Sales,Marketing,Sales Executive,Married,Female,4779,8,8,5,2,2,28
+Human Resources,Human Resources,Human Resources,Married,Male,3737,4,3,2,1,3,34
+Research & Development,Medical,Research Scientist,Married,Female,2366,8,8,7,1,5,26
+Research & Development,Medical,Research Scientist,Married,Male,1706,0,0,0,1,3,27
+Sales,Marketing,Manager,Married,Female,16307,29,20,17,4,26,51
+Research & Development,Medical,Healthcare Representative,Single,Male,5933,10,5,3,2,4,44
+Research & Development,Medical,Research Scientist,Single,Male,3424,6,4,1,1,2,25
+Sales,Medical,Sales Executive,Divorced,Male,4037,9,9,8,2,1,33
+Research & Development,Medical,Research Scientist,Single,Female,2559,6,6,1,1,27,35
+Sales,Life Sciences,Sales Executive,Married,Male,6201,18,18,11,2,1,36
+Sales,Life Sciences,Sales Executive,Divorced,Male,4403,8,5,3,2,13,32
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,3761,10,5,3,1,5,30
+Sales,Marketing,Sales Executive,Married,Female,10934,35,5,4,3,7,53
+Sales,Marketing,Sales Executive,Divorced,Male,10761,18,5,2,3,9,45
+Research & Development,Medical,Research Scientist,Married,Female,5175,9,5,3,2,8,32
+Research & Development,Medical,Manufacturing Director,Married,Female,13826,31,9,0,4,25,52
+Sales,Marketing,Sales Executive,Divorced,Male,6334,9,1,0,2,16,37
+Human Resources,Medical,Human Resources,Divorced,Male,4936,6,5,4,1,8,28
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,4775,4,2,2,2,1,22
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2818,10,3,2,1,8,44
+Research & Development,Medical,Research Scientist,Single,Male,2515,8,2,2,1,2,42
+Human Resources,Life Sciences,Human Resources,Married,Male,2342,6,5,3,1,8,36
+Sales,Other,Sales Executive,Married,Male,4194,5,5,3,2,3,25
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,10685,17,17,15,3,9,35
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,2022,10,10,8,1,25,35
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,2314,4,3,2,1,1,32
+Sales,Marketing,Sales Executive,Married,Male,4256,5,5,3,2,4,25
+Research & Development,Technical Degree,Research Scientist,Married,Female,3580,7,4,2,1,1,49
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,3162,6,5,4,1,4,24
+Sales,Life Sciences,Sales Executive,Married,Male,6524,10,10,3,2,5,32
+Sales,Marketing,Sales Representative,Married,Male,2899,3,2,2,1,9,38
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,5231,17,5,3,2,3,42
+Research & Development,Life Sciences,Research Scientist,Married,Male,2356,8,6,2,1,11,31
+Sales,Medical,Sales Representative,Divorced,Female,2800,5,3,2,1,1,29
+Sales,Marketing,Sales Executive,Married,Male,11836,28,2,2,4,8,53
+Research & Development,Technical Degree,Manufacturing Director,Married,Male,10903,16,13,8,3,25,35
+Sales,Medical,Sales Representative,Married,Female,2973,10,5,0,1,21,37
+Research & Development,Life Sciences,Research Director,Single,Female,14275,33,12,8,4,23,53
+Research & Development,Life Sciences,Healthcare Representative,Married,Female,5562,12,5,2,2,1,43
+Sales,Marketing,Sales Executive,Married,Female,4537,8,7,7,2,2,47
+Sales,Medical,Sales Executive,Single,Male,7642,10,10,9,3,19,37
+Research & Development,Life Sciences,Manager,Divorced,Male,17924,31,31,7,4,2,50
+Human Resources,Life Sciences,Human Resources,Married,Female,5204,13,5,4,2,2,39
+Human Resources,Human Resources,Human Resources,Divorced,Male,2277,7,4,3,1,3,33
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2795,1,1,1,1,25,32
+Research & Development,Medical,Laboratory Technician,Divorced,Female,2532,8,4,3,1,7,29
+Research & Development,Life Sciences,Research Scientist,Married,Male,2559,8,8,1,1,9,44
+Sales,Medical,Sales Executive,Single,Male,4908,4,4,2,2,5,28
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,2380,3,1,0,1,2,58
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Female,4765,4,1,0,2,8,43
+Sales,Medical,Sales Representative,Single,Female,2044,2,2,2,1,2,20
+Research & Development,Other,Research Scientist,Single,Female,2693,1,1,0,1,18,21
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,6586,17,16,11,2,14,36
+Sales,Life Sciences,Sales Representative,Single,Female,3294,3,3,2,1,2,47
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,4171,4,3,2,2,3,22
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Female,2778,10,7,0,1,2,41
+Research & Development,Medical,Research Scientist,Divorced,Female,2377,6,2,2,1,9,28
+Research & Development,Medical,Laboratory Technician,Married,Male,2404,8,2,2,1,6,39
+Research & Development,Life Sciences,Research Scientist,Single,Female,2318,1,1,0,1,4,27
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,2008,1,1,0,1,10,34
+Sales,Medical,Sales Executive,Single,Female,6244,10,5,3,2,14,42
+Research & Development,Other,Research Scientist,Single,Male,2799,6,3,2,1,1,33
+Research & Development,Technical Degree,Healthcare Representative,Divorced,Female,10552,24,6,4,3,5,58
+Sales,Life Sciences,Sales Representative,Married,Male,2329,13,7,2,1,7,31
+Research & Development,Life Sciences,Healthcare Representative,Married,Female,4014,10,10,7,2,21,35
+Research & Development,Other,Laboratory Technician,Married,Female,7403,29,26,7,3,8,49
+Research & Development,Medical,Research Scientist,Married,Male,2259,13,0,0,1,20,48
+Sales,Marketing,Sales Executive,Married,Female,6932,9,9,0,2,20,31
+Research & Development,Other,Research Scientist,Single,Male,4678,8,6,1,1,7,36
+Research & Development,Technical Degree,Research Director,Married,Female,13582,15,15,11,3,1,38
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,2332,5,3,2,1,1,32
+Sales,Marketing,Sales Representative,Married,Male,2413,1,1,0,1,19,25
+Sales,Marketing,Sales Executive,Divorced,Male,9705,11,1,0,3,10,40
+Sales,Medical,Sales Executive,Single,Male,4294,7,7,7,2,1,26
+Research & Development,Medical,Laboratory Technician,Single,Male,4721,20,18,17,1,6,41
+Research & Development,Medical,Laboratory Technician,Single,Male,2519,16,11,9,1,2,36
+Sales,Other,Sales Representative,Single,Male,2121,1,1,0,1,21,19
+Research & Development,Technical Degree,Laboratory Technician,Single,Male,2973,1,1,0,1,4,20
+Research & Development,Medical,Healthcare Representative,Married,Female,5855,10,9,5,2,12,31
+Research & Development,Medical,Research Scientist,Divorced,Male,3617,3,1,0,1,9,40
+Research & Development,Medical,Manufacturing Director,Married,Female,6725,8,8,3,2,3,32
+Sales,Life Sciences,Sales Executive,Married,Male,10325,16,16,7,3,3,36
+Research & Development,Life Sciences,Healthcare Representative,Single,Female,6949,6,5,4,2,1,33
+Sales,Life Sciences,Sales Executive,Married,Male,10609,17,14,7,3,1,37
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,4447,9,9,8,2,4,45
+Sales,Technical Degree,Sales Representative,Married,Female,2157,3,3,2,1,20,29
+Sales,Medical,Sales Executive,Married,Female,4601,5,5,0,2,18,35
+Research & Development,Life Sciences,Manager,Married,Male,17099,26,9,8,4,1,52
+Research & Development,Technical Degree,Research Scientist,Single,Male,2479,7,1,0,1,2,58
+Sales,Medical,Manager,Divorced,Male,14852,22,17,2,4,2,53
+Sales,Other,Sales Executive,Divorced,Male,7264,10,8,7,3,8,30
+Sales,Technical Degree,Sales Executive,Single,Female,5666,6,5,3,2,10,38
+Sales,Life Sciences,Sales Executive,Divorced,Male,7823,12,10,8,3,3,35
+Sales,Life Sciences,Sales Executive,Single,Male,7880,9,8,7,3,2,39
+Sales,Life Sciences,Sales Executive,Single,Female,13194,22,1,0,4,24,40
+Research & Development,Medical,Manufacturing Director,Divorced,Male,5067,20,19,7,2,16,47
+Sales,Technical Degree,Sales Executive,Divorced,Male,5079,12,7,7,2,8,36
+Research & Development,Medical,Research Scientist,Single,Male,2321,4,3,2,1,9,31
+Sales,Life Sciences,Manager,Single,Male,17444,10,10,0,4,17,33
+Research & Development,Life Sciences,Research Scientist,Single,Female,2404,3,0,0,1,10,29
+Research & Development,Life Sciences,Research Scientist,Single,Female,3452,5,3,2,1,13,33
+Research & Development,Medical,Laboratory Technician,Divorced,Female,2270,8,5,2,1,1,45
+Research & Development,Medical,Research Director,Divorced,Male,17399,32,5,3,4,1,50
+Research & Development,Other,Healthcare Representative,Married,Female,5488,6,6,2,2,1,33
+Research & Development,Medical,Research Director,Divorced,Male,19419,21,18,11,5,9,41
+Research & Development,Technical Degree,Laboratory Technician,Married,Female,2811,4,2,2,1,16,27
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,3633,9,9,8,2,23,45
+Sales,Life Sciences,Sales Executive,Single,Female,4163,9,9,7,2,4,47
+Research & Development,Life Sciences,Research Scientist,Married,Female,2132,7,5,1,1,22,30
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,13973,22,12,5,4,24,50
+Research & Development,Medical,Research Scientist,Married,Male,2684,3,2,2,1,10,38
+Research & Development,Medical,Manufacturing Director,Divorced,Male,10845,13,8,7,3,7,46
+Research & Development,Medical,Manufacturing Director,Divorced,Female,4377,5,4,2,2,17,24
+Research & Development,Other,Laboratory Technician,Divorced,Male,3743,5,4,2,1,14,35
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,4148,4,4,3,2,1,31
+Research & Development,Life Sciences,Research Scientist,Single,Male,1051,0,0,0,1,5,18
+Research & Development,Technical Degree,Manufacturing Director,Married,Female,10739,22,10,8,3,17,54
+Research & Development,Medical,Healthcare Representative,Divorced,Female,10388,16,16,1,3,25,35
+Research & Development,Life Sciences,Research Director,Married,Female,11416,9,8,7,3,8,30
+Research & Development,Medical,Research Scientist,Single,Female,2600,1,1,0,1,11,20
+Research & Development,Medical,Laboratory Technician,Single,Female,2422,4,3,2,1,5,30
+Research & Development,Medical,Manufacturing Director,Married,Male,5472,8,8,3,2,2,26
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2451,4,4,1,1,8,22
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,4240,19,2,2,2,6,48
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,10999,27,15,8,3,4,48
+Research & Development,Medical,Manufacturing Director,Single,Female,5003,8,2,1,2,7,41
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,12742,21,21,8,4,1,39
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,4227,4,3,2,2,2,27
+Research & Development,Other,Laboratory Technician,Divorced,Male,3917,3,3,2,1,10,35
+Sales,Marketing,Manager,Married,Male,18303,21,1,0,5,5,42
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2380,8,1,0,1,9,50
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,13726,30,5,3,4,2,59
+Research & Development,Medical,Healthcare Representative,Married,Female,4777,15,1,0,2,11,37
+Research & Development,Medical,Healthcare Representative,Married,Male,6385,17,8,7,2,18,55
+Research & Development,Life Sciences,Research Director,Divorced,Female,19973,21,21,10,5,7,41
+Sales,Life Sciences,Sales Executive,Single,Male,6861,19,1,0,2,3,38
+Sales,Medical,Sales Executive,Single,Male,4969,7,2,2,2,29,26
+Sales,Marketing,Manager,Married,Female,19845,33,32,9,5,2,52
+Sales,Medical,Sales Executive,Married,Female,13320,23,12,11,4,28,44
+Sales,Life Sciences,Sales Executive,Married,Female,6347,19,18,13,2,1,50
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,2743,18,17,14,1,16,36
+Research & Development,Medical,Manufacturing Director,Single,Female,10880,21,21,8,3,22,39
+Sales,Life Sciences,Sales Representative,Single,Female,2342,3,2,2,1,8,33
+Sales,Life Sciences,Manager,Married,Female,17650,26,9,1,4,11,45
+Research & Development,Medical,Laboratory Technician,Single,Female,4025,10,8,7,1,29,32
+Sales,Marketing,Sales Executive,Divorced,Male,9725,16,15,9,2,1,34
+Sales,Technical Degree,Manager,Married,Male,11904,14,6,4,3,1,59
+Human Resources,Medical,Human Resources,Single,Male,2177,6,6,4,1,24,45
+Sales,Marketing,Sales Executive,Married,Female,7525,30,15,12,3,2,53
+Research & Development,Other,Laboratory Technician,Divorced,Male,4834,9,1,0,2,15,36
+Research & Development,Life Sciences,Research Scientist,Married,Male,2042,6,3,2,1,2,26
+Sales,Life Sciences,Sales Representative,Married,Female,2220,1,1,0,1,10,34
+Sales,Medical,Sales Representative,Married,Male,1052,1,1,0,1,10,28
+Research & Development,Other,Research Scientist,Married,Male,2821,8,2,2,1,3,38
+Research & Development,Medical,Research Director,Married,Male,19237,29,8,7,5,2,50
+Research & Development,Other,Healthcare Representative,Single,Female,4107,8,4,1,2,3,37
+Sales,Marketing,Sales Executive,Married,Male,8396,8,7,5,2,26,40
+Research & Development,Medical,Research Scientist,Divorced,Female,2007,5,5,3,1,1,26
+Research & Development,Medical,Research Director,Divorced,Male,19627,23,2,2,5,1,46
+Sales,Life Sciences,Sales Executive,Married,Female,10686,13,9,0,3,2,54
+Research & Development,Medical,Research Scientist,Married,Female,2942,18,5,3,1,9,56
+Research & Development,Medical,Manufacturing Director,Single,Female,8858,15,14,8,3,12,36
+Research & Development,Medical,Manager,Single,Male,16756,31,9,2,4,2,55
+Sales,Medical,Sales Executive,Divorced,Male,10798,18,1,0,3,25,43
+Sales,Marketing,Sales Representative,Single,Female,2323,2,2,2,1,9,20
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,1416,1,1,0,1,10,21
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,4615,19,16,7,2,8,46
+Research & Development,Life Sciences,Research Scientist,Married,Male,2461,18,10,7,1,4,51
+Research & Development,Technical Degree,Healthcare Representative,Single,Male,8722,10,10,9,3,24,28
+Research & Development,Medical,Laboratory Technician,Married,Male,3955,6,5,3,1,1,26
+Research & Development,Other,Manufacturing Director,Married,Male,9957,7,6,2,2,20,30
+Research & Development,Technical Degree,Research Scientist,Married,Female,3376,10,10,8,1,7,41
+Research & Development,Life Sciences,Healthcare Representative,Married,Female,8823,20,19,9,3,17,38
+Research & Development,Technical Degree,Healthcare Representative,Married,Male,10322,14,11,1,3,20,40
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,4621,3,3,2,1,8,27
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,10976,23,3,2,3,2,55
+Research & Development,Other,Research Scientist,Single,Female,3660,10,8,7,2,10,28
+Human Resources,Medical,Human Resources,Married,Male,10482,24,20,6,3,1,44
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,7119,9,3,2,3,5,33
+Sales,Technical Degree,Sales Executive,Single,Male,9582,9,8,7,3,4,35
+Research & Development,Medical,Research Scientist,Single,Female,4508,14,13,8,2,29,33
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,2207,4,4,2,1,15,28
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,7756,7,6,4,2,3,34
+Sales,Life Sciences,Sales Executive,Divorced,Female,6694,8,1,0,2,10,37
+Research & Development,Technical Degree,Laboratory Technician,Married,Male,3691,7,7,6,1,4,25
+Research & Development,Medical,Laboratory Technician,Divorced,Male,2377,1,1,0,1,21,26
+Research & Development,Medical,Research Scientist,Single,Male,2313,5,2,2,1,25,33
+Research & Development,Medical,Manager,Married,Male,17665,23,22,7,4,2,42
+Research & Development,Medical,Laboratory Technician,Divorced,Male,2596,1,1,0,1,1,28
+Sales,Other,Sales Executive,Single,Male,4728,5,0,0,2,1,50
+Sales,Life Sciences,Sales Executive,Married,Female,4302,4,3,2,2,7,33
+Research & Development,Life Sciences,Research Scientist,Married,Male,2979,6,0,0,1,3,34
+Research & Development,Medical,Manager,Single,Male,16885,27,5,1,4,1,48
+Sales,Life Sciences,Sales Executive,Married,Female,5593,15,15,12,2,9,45
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,10445,18,8,0,3,7,52
+Sales,Marketing,Sales Executive,Divorced,Male,8740,9,8,7,3,10,38
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,2514,11,7,7,1,28,29
+Research & Development,Medical,Manufacturing Director,Divorced,Female,7655,10,9,7,3,3,28
+Sales,Marketing,Manager,Married,Male,17465,23,12,9,4,3,46
+Sales,Marketing,Sales Executive,Single,Male,7351,10,1,0,3,2,38
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,10820,18,8,1,3,27,43
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,12169,21,18,5,4,2,39
+Research & Development,Medical,Research Director,Single,Male,19626,21,20,9,5,14,40
+Research & Development,Technical Degree,Research Scientist,Single,Female,2070,2,2,2,1,1,21
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,6782,9,5,3,2,9,39
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,7779,18,11,9,2,18,36
+Sales,Life Sciences,Sales Representative,Married,Male,2791,3,2,2,1,20,31
+Research & Development,Life Sciences,Research Scientist,Married,Male,3201,6,5,4,1,2,28
+Sales,Marketing,Sales Executive,Divorced,Male,4968,5,5,2,2,11,35
+Sales,Technical Degree,Sales Executive,Married,Male,13120,22,9,3,4,8,49
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,4033,5,3,2,2,2,34
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,3291,8,7,1,1,10,29
+Research & Development,Medical,Laboratory Technician,Single,Male,4272,16,1,0,2,29,42
+Research & Development,Medical,Manufacturing Director,Married,Male,5056,10,10,2,2,8,29
+Human Resources,Human Resources,Human Resources,Married,Male,2844,7,7,0,1,1,38
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2703,3,3,2,1,6,28
+Research & Development,Medical,Laboratory Technician,Single,Male,1904,0,0,0,1,8,18
+Sales,Marketing,Sales Executive,Single,Female,8224,6,5,3,2,9,33
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,4766,6,1,0,1,12,41
+Research & Development,Medical,Laboratory Technician,Married,Male,2610,2,2,2,1,15,31
+Research & Development,Medical,Healthcare Representative,Divorced,Female,5731,9,6,3,2,25,37
+Research & Development,Life Sciences,Research Scientist,Married,Male,2539,4,4,2,1,6,27
+Sales,Life Sciences,Sales Executive,Married,Female,5714,6,6,3,2,9,34
+Human Resources,Technical Degree,Human Resources,Single,Male,4323,6,5,4,1,8,35
+Sales,Life Sciences,Sales Executive,Married,Female,7336,11,11,10,3,23,29
+Research & Development,Medical,Research Director,Single,Female,13499,20,18,13,3,9,40
+Sales,Life Sciences,Sales Executive,Single,Male,13758,22,21,14,4,12,42
+Sales,Marketing,Sales Executive,Single,Male,5155,9,6,5,2,4,42
+Research & Development,Medical,Laboratory Technician,Married,Male,2258,10,8,7,1,1,35
+Research & Development,Medical,Laboratory Technician,Single,Male,3597,6,4,2,1,24,24
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,2515,1,1,0,1,12,28
+Research & Development,Medical,Laboratory Technician,Married,Male,4420,8,8,7,1,3,26
+Sales,Marketing,Sales Executive,Married,Male,6578,10,10,4,2,10,30
+Research & Development,Medical,Research Scientist,Married,Female,4422,16,1,0,2,26,40
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Male,10274,15,7,4,3,2,35
+Research & Development,Medical,Healthcare Representative,Single,Male,5343,14,13,9,2,1,34
+Research & Development,Other,Laboratory Technician,Married,Male,2376,2,2,2,1,4,35
+Sales,Marketing,Sales Executive,Single,Female,5346,7,4,3,2,9,43
+Sales,Life Sciences,Sales Representative,Divorced,Female,2827,1,1,0,1,2,32
+Research & Development,Technical Degree,Manager,Divorced,Female,19943,28,5,2,5,4,56
+Research & Development,Medical,Laboratory Technician,Married,Female,3131,10,10,8,1,6,29
+Research & Development,Life Sciences,Research Scientist,Single,Male,2552,1,1,0,1,9,19
+Research & Development,Medical,Research Scientist,Married,Female,4477,7,3,2,1,7,45
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,6474,14,14,11,2,1,37
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,3033,2,2,2,1,3,20
+Research & Development,Life Sciences,Research Scientist,Single,Male,2936,6,6,2,1,10,44
+Research & Development,Medical,Manager,Divorced,Female,18606,26,7,7,5,7,53
+Research & Development,Life Sciences,Research Scientist,Married,Female,2168,6,5,3,1,15,29
+Research & Development,Life Sciences,Research Scientist,Married,Male,2853,1,0,0,1,3,22
+Sales,Marketing,Manager,Married,Female,17048,28,26,9,4,2,46
+Research & Development,Life Sciences,Research Scientist,Single,Male,2290,6,0,0,1,17,44
+Human Resources,Human Resources,Human Resources,Married,Male,3600,5,5,4,1,2,33
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2107,5,1,0,1,5,41
+Sales,Life Sciences,Sales Executive,Divorced,Male,4115,8,4,3,2,29,30
+Sales,Medical,Sales Executive,Married,Male,4327,5,0,0,2,2,40
+Research & Development,Medical,Manager,Married,Female,17856,32,2,2,4,2,50
+Research & Development,Medical,Laboratory Technician,Married,Male,3196,6,6,3,1,19,28
+Research & Development,Life Sciences,Research Director,Married,Male,19081,25,4,3,5,15,46
+Sales,Life Sciences,Sales Executive,Married,Male,8966,15,7,7,2,17,35
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,2210,1,1,0,1,17,24
+Sales,Medical,Sales Executive,Married,Female,4539,10,10,1,2,25,33
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,2741,7,7,7,1,6,36
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,3491,10,10,9,2,7,30
+Research & Development,Other,Research Scientist,Single,Male,4541,20,20,17,2,29,44
+Sales,Marketing,Sales Representative,Single,Male,2678,2,2,2,1,21,20
+Research & Development,Technical Degree,Manufacturing Director,Divorced,Male,7379,12,6,4,2,2,46
+Human Resources,Medical,Human Resources,Married,Male,6272,10,4,3,2,2,42
+Sales,Marketing,Sales Executive,Divorced,Male,5220,12,11,9,2,7,60
+Research & Development,Other,Laboratory Technician,Married,Female,2743,2,2,2,1,13,32
+Research & Development,Life Sciences,Research Scientist,Single,Female,4998,10,8,7,2,2,32
+Research & Development,Technical Degree,Manufacturing Director,Divorced,Female,10252,17,7,7,3,1,36
+Research & Development,Medical,Research Scientist,Married,Male,2781,15,14,10,1,9,33
+Sales,Technical Degree,Sales Executive,Divorced,Female,6852,7,5,3,2,10,40
+Sales,Life Sciences,Sales Executive,Single,Male,4950,5,4,1,2,10,25
+Research & Development,Medical,Research Scientist,Married,Male,3579,12,11,7,1,1,30
+Research & Development,Medical,Research Director,Married,Female,13191,20,1,0,3,26,42
+Sales,Marketing,Sales Executive,Married,Female,10377,16,13,12,3,8,35
+Research & Development,Life Sciences,Research Scientist,Married,Male,2235,9,9,8,1,14,27
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Female,10502,33,5,4,3,1,54
+Research & Development,Life Sciences,Research Scientist,Married,Female,2011,10,10,7,1,2,44
+Research & Development,Medical,Research Scientist,Single,Female,1859,1,1,0,1,10,19
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,3760,3,3,2,1,1,29
+Research & Development,Life Sciences,Research Director,Married,Male,17779,36,10,9,4,3,54
+Research & Development,Medical,Healthcare Representative,Married,Male,6833,6,6,1,2,11,31
+Research & Development,Medical,Healthcare Representative,Single,Female,6812,10,10,8,2,24,31
+Sales,Life Sciences,Sales Executive,Single,Female,5171,13,6,5,2,3,59
+Research & Development,Life Sciences,Research Director,Married,Male,19740,25,8,7,5,3,43
+Research & Development,Medical,Manager,Married,Male,18711,23,1,0,5,4,49
+Research & Development,Technical Degree,Research Scientist,Married,Male,3692,12,11,7,1,3,36
+Research & Development,Technical Degree,Laboratory Technician,Single,Male,2559,7,1,0,1,2,48
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2517,5,5,3,1,4,27
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,6623,6,6,0,2,7,29
+Research & Development,Life Sciences,Research Director,Single,Male,18265,25,1,0,5,1,48
+Research & Development,Life Sciences,Research Director,Divorced,Female,16124,9,7,7,4,1,29
+Research & Development,Technical Degree,Research Scientist,Married,Female,2585,2,1,0,1,20,34
+Sales,Marketing,Manager,Married,Male,18213,26,22,10,5,5,44
+Sales,Marketing,Sales Executive,Divorced,Male,8380,10,9,8,3,10,33
+Research & Development,Life Sciences,Research Scientist,Single,Female,2994,1,1,1,1,25,19
+Research & Development,Life Sciences,Research Scientist,Married,Male,1223,1,1,1,1,1,23
+Sales,Life Sciences,Sales Representative,Single,Male,1118,1,1,0,1,24,25
+Research & Development,Life Sciences,Research Scientist,Single,Male,2875,8,8,2,1,4,26
+Sales,Marketing,Manager,Single,Female,18824,26,24,11,5,2,45
+Research & Development,Medical,Healthcare Representative,Divorced,Male,13577,34,33,0,4,8,55
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,2625,2,2,2,1,10,21
+Sales,Marketing,Manager,Married,Female,18789,26,11,8,5,4,46
+Sales,Marketing,Sales Executive,Single,Female,4538,4,3,2,2,2,34
+Sales,Life Sciences,Manager,Divorced,Male,19847,31,29,10,5,9,51
+Research & Development,Medical,Manufacturing Director,Single,Male,10512,25,9,4,3,18,59
+Research & Development,Medical,Laboratory Technician,Divorced,Female,4444,15,11,10,2,19,34
+Research & Development,Medical,Laboratory Technician,Single,Male,2154,5,4,2,1,1,28
+Research & Development,Life Sciences,Manager,Divorced,Male,19190,26,25,13,5,4,44
+Human Resources,Life Sciences,Human Resources,Married,Male,4490,14,10,8,2,11,34
+Research & Development,Life Sciences,Research Scientist,Married,Male,3506,4,3,2,1,6,35
+Research & Development,Medical,Research Scientist,Married,Female,2372,18,1,0,2,7,42
+Sales,Marketing,Sales Executive,Single,Female,10231,23,21,17,3,4,43
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,5410,18,16,12,2,2,36
+Research & Development,Medical,Healthcare Representative,Married,Female,7978,10,10,5,3,15,44
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,3867,2,2,2,1,2,28
+Research & Development,Medical,Laboratory Technician,Single,Female,2838,8,7,7,1,6,51
+Research & Development,Medical,Manufacturing Director,Single,Female,4695,10,8,7,2,9,30
+Research & Development,Technical Degree,Laboratory Technician,Divorced,Female,3339,10,7,7,1,7,29
+Research & Development,Technical Degree,Research Scientist,Single,Male,2080,5,3,2,1,1,28
+Research & Development,Medical,Research Scientist,Single,Female,2096,2,2,1,1,1,25
+Sales,Medical,Sales Executive,Married,Male,6209,10,10,8,2,8,32
+Research & Development,Medical,Manager,Single,Female,18061,22,0,0,5,25,45
+Research & Development,Medical,Manager,Divorced,Female,17123,21,19,2,4,13,39
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2372,2,2,2,1,23,58
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,4883,10,10,1,2,7,32
+Research & Development,Medical,Research Scientist,Single,Male,3904,6,5,3,1,23,39
+Research & Development,Technical Degree,Laboratory Technician,Married,Female,4627,10,9,7,2,6,30
+Research & Development,Technical Degree,Healthcare Representative,Married,Female,7094,10,7,7,3,10,36
+Human Resources,Life Sciences,Human Resources,Single,Female,3423,10,7,7,1,1,46
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,6674,10,9,5,2,1,28
+Research & Development,Life Sciences,Research Director,Married,Female,16880,25,3,2,4,28,50
+Sales,Marketing,Sales Executive,Single,Male,9094,9,5,0,3,25,40
+Sales,Life Sciences,Sales Executive,Single,Male,8446,10,8,7,3,5,52
+Research & Development,Medical,Manager,Married,Female,11916,9,9,8,3,17,30
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,4534,9,8,7,2,18,39
+Sales,Life Sciences,Sales Executive,Divorced,Female,9852,10,10,6,3,2,31
+Sales,Medical,Sales Executive,Single,Male,6151,19,19,9,2,10,41
+Sales,Life Sciences,Sales Representative,Single,Female,2302,3,3,2,1,1,31
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2362,10,3,2,1,3,44
+Research & Development,Life Sciences,Manager,Married,Male,17861,21,20,10,4,2,42
+Research & Development,Medical,Manager,Married,Female,19187,23,19,11,5,2,55
+Human Resources,Life Sciences,Manager,Single,Male,19717,36,7,7,5,8,56
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,3544,6,4,0,1,16,40
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,8500,10,9,6,3,9,34
+Research & Development,Life Sciences,Research Scientist,Single,Male,4661,9,9,8,2,2,40
+Sales,Marketing,Sales Executive,Divorced,Female,4103,10,9,7,2,1,41
+Research & Development,Life Sciences,Research Scientist,Single,Male,4249,9,9,1,2,4,35
+Human Resources,Life Sciences,Manager,Divorced,Male,14026,33,33,10,4,5,51
+Sales,Life Sciences,Sales Executive,Divorced,Female,6893,11,7,7,2,2,38
+Sales,Medical,Sales Executive,Single,Female,6125,10,10,6,2,15,34
+Research & Development,Medical,Laboratory Technician,Married,Male,3669,7,3,2,1,19,25
+Research & Development,Medical,Manufacturing Director,Married,Female,10008,31,10,9,3,7,58
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2387,7,4,3,1,1,40
+Sales,Marketing,Sales Executive,Married,Female,4639,17,15,13,2,7,36
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,7898,11,10,8,3,4,48
+Sales,Medical,Sales Representative,Married,Female,2534,5,1,0,1,11,27
+Research & Development,Technical Degree,Manufacturing Director,Single,Female,13142,29,5,3,4,11,51
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,1611,0,0,0,1,1,18
+Research & Development,Medical,Laboratory Technician,Married,Female,5363,10,9,0,2,1,35
+Sales,Life Sciences,Sales Executive,Single,Male,5071,8,6,0,2,2,27
+Sales,Marketing,Sales Executive,Single,Male,13695,24,19,8,4,13,55
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,13402,33,19,9,4,23,56
+Research & Development,Technical Degree,Research Scientist,Divorced,Female,2029,5,5,0,1,26,34
+Research & Development,Medical,Healthcare Representative,Divorced,Female,6377,15,12,8,2,2,40
+Research & Development,Medical,Laboratory Technician,Married,Male,5429,10,8,7,2,29,34
+Sales,Life Sciences,Sales Representative,Single,Female,2785,3,1,0,1,2,31
+Sales,Marketing,Sales Executive,Married,Female,4614,5,4,2,2,18,35
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,2610,4,4,3,1,7,38
+Research & Development,Technical Degree,Healthcare Representative,Single,Female,6687,14,14,11,2,2,34
+Sales,Life Sciences,Sales Executive,Married,Male,4724,5,5,4,2,26,28
+Research & Development,Medical,Manufacturing Director,Married,Male,6179,10,10,7,2,22,31
+Sales,Life Sciences,Sales Executive,Married,Male,6120,8,5,4,2,21,39
+Sales,Marketing,Sales Executive,Married,Male,10596,14,4,2,3,2,51
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,5467,12,6,3,2,22,41
+Research & Development,Life Sciences,Research Scientist,Married,Male,2996,8,6,3,1,4,37
+Sales,Life Sciences,Sales Executive,Married,Male,9998,8,5,2,2,5,33
+Sales,Marketing,Sales Executive,Married,Male,4078,4,3,2,2,2,32
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,10920,13,6,5,3,25,39
+Sales,Life Sciences,Sales Executive,Married,Male,6232,6,3,2,2,18,25
+Research & Development,Medical,Manufacturing Director,Married,Female,13247,24,5,2,4,28,52
+Research & Development,Medical,Research Scientist,Single,Female,4081,20,20,8,2,6,43
+Sales,Marketing,Sales Executive,Married,Female,5769,6,6,4,2,10,27
+Research & Development,Life Sciences,Research Scientist,Single,Female,2394,8,8,7,1,17,27
+Research & Development,Medical,Research Scientist,Single,Male,3904,5,4,1,1,2,26
+Human Resources,Human Resources,Manager,Married,Female,16799,21,20,9,4,10,42
+Research & Development,Other,Laboratory Technician,Married,Female,2950,12,5,4,1,8,52
+Research & Development,Medical,Laboratory Technician,Single,Female,3629,8,3,2,1,11,37
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,9362,10,2,2,3,18,35
+Research & Development,Technical Degree,Laboratory Technician,Married,Male,3229,7,3,2,1,1,25
+Research & Development,Other,Laboratory Technician,Single,Male,3578,8,7,7,1,7,26
+Human Resources,Other,Human Resources,Single,Male,7988,10,10,9,3,17,29
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,4284,20,4,3,2,28,49
+Research & Development,Other,Healthcare Representative,Single,Female,7553,9,8,7,3,14,29
+Research & Development,Medical,Research Director,Single,Female,17328,29,20,7,4,1,54
+Research & Development,Medical,Research Director,Married,Female,19701,32,9,5,5,1,58
+Research & Development,Medical,Research Director,Divorced,Male,14732,31,7,0,4,1,55
+Sales,Marketing,Sales Executive,Single,Female,9278,15,5,1,2,3,36
+Sales,Life Sciences,Sales Representative,Single,Female,1359,1,1,0,1,1,31
+Sales,Marketing,Sales Executive,Divorced,Female,4779,8,3,2,2,7,30
+Research & Development,Life Sciences,Research Director,Single,Female,16422,9,3,0,4,8,31
+Research & Development,Other,Research Scientist,Divorced,Male,2996,10,4,3,1,1,34
+Research & Development,Life Sciences,Research Scientist,Single,Female,1261,1,1,0,1,8,31
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2099,6,5,4,1,11,27
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,5810,10,10,8,2,4,36
+Sales,Marketing,Sales Executive,Married,Female,5647,11,3,2,2,16,36
+Research & Development,Technical Degree,Research Scientist,Married,Male,3420,17,6,2,1,1,47
+Sales,Life Sciences,Sales Representative,Married,Male,4400,6,3,2,1,9,25
+Research & Development,Technical Degree,Laboratory Technician,Single,Male,3500,7,6,3,1,5,37
+Research & Development,Life Sciences,Research Scientist,Married,Female,2066,5,3,0,1,1,56
+Research & Development,Medical,Research Director,Married,Female,17169,26,20,6,4,2,47
+Sales,Medical,Sales Executive,Married,Female,4162,5,5,3,2,4,24
+Sales,Marketing,Sales Executive,Married,Male,9204,7,4,3,2,7,32
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,3294,7,5,2,1,1,34
+Research & Development,Medical,Research Scientist,Married,Male,2127,7,4,3,1,5,41
+Research & Development,Other,Laboratory Technician,Divorced,Male,3975,11,8,7,2,9,40
+Sales,Life Sciences,Sales Executive,Divorced,Male,10793,13,13,9,3,8,31
+Sales,Marketing,Sales Executive,Divorced,Male,10096,28,7,3,3,9,46
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,3646,11,1,0,1,2,39
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,7446,10,10,7,3,1,31
+Research & Development,Medical,Healthcare Representative,Divorced,Male,10851,24,7,7,3,20,45
+Human Resources,Medical,Human Resources,Single,Female,2109,8,3,2,1,8,31
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,3722,7,2,2,1,2,31
+Research & Development,Technical Degree,Manufacturing Director,Married,Male,9380,10,3,2,3,29,45
+Sales,Marketing,Sales Executive,Divorced,Male,5486,15,2,2,2,7,48
+Human Resources,Technical Degree,Human Resources,Married,Female,2742,2,2,2,1,9,34
+Research & Development,Medical,Research Director,Divorced,Male,13757,16,9,8,3,8,40
+Sales,Medical,Sales Executive,Single,Male,8463,6,5,3,2,5,28
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,3162,7,5,3,1,5,44
+Research & Development,Medical,Research Director,Single,Male,16598,35,9,8,4,2,53
+Research & Development,Technical Degree,Healthcare Representative,Married,Male,6651,20,3,2,2,5,49
+Research & Development,Medical,Research Scientist,Divorced,Male,2345,8,3,2,1,2,40
+Research & Development,Life Sciences,Research Scientist,Single,Male,3420,6,5,3,1,20,44
+Sales,Medical,Sales Executive,Married,Male,4373,5,4,3,2,7,33
+Sales,Other,Sales Executive,Single,Male,4759,15,13,12,2,3,34
+Sales,Life Sciences,Sales Executive,Married,Male,5301,4,2,2,2,16,30
+Research & Development,Medical,Laboratory Technician,Single,Female,3673,12,12,8,1,9,42
+Sales,Marketing,Sales Executive,Married,Female,4768,11,1,0,2,1,44
+Research & Development,Technical Degree,Research Scientist,Divorced,Male,1274,1,1,0,1,7,30
+Research & Development,Life Sciences,Research Scientist,Married,Male,4900,13,12,8,2,1,57
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,10466,29,8,7,3,7,49
+Research & Development,Medical,Research Director,Divorced,Male,17007,16,14,9,4,15,34
+Sales,Technical Degree,Sales Representative,Married,Male,2909,5,3,2,1,1,28
+Sales,Technical Degree,Sales Executive,Single,Female,5765,7,5,0,2,13,29
+Sales,Medical,Sales Executive,Single,Female,4599,16,15,10,2,24,34
+Sales,Life Sciences,Sales Representative,Married,Male,2404,1,1,0,1,7,35
+Research & Development,Medical,Laboratory Technician,Single,Male,3172,4,0,0,1,9,24
+Sales,Life Sciences,Sales Representative,Married,Female,2033,1,1,0,1,13,24
+Research & Development,Medical,Manufacturing Director,Single,Male,10209,16,2,2,3,2,44
+Sales,Life Sciences,Sales Executive,Divorced,Male,8620,10,10,4,2,19,29
+Human Resources,Life Sciences,Human Resources,Divorced,Male,2064,6,5,3,1,1,30
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,4035,4,3,2,2,4,55
+Research & Development,Medical,Laboratory Technician,Married,Female,3838,8,5,2,1,4,33
+Sales,Medical,Sales Executive,Married,Female,4591,11,5,2,2,14,47
+Research & Development,Medical,Laboratory Technician,Single,Male,2561,8,0,0,1,2,28
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,1563,1,1,0,1,1,28
+Sales,Life Sciences,Sales Executive,Single,Male,4898,5,4,3,2,7,28
+Research & Development,Medical,Laboratory Technician,Married,Female,4789,10,3,2,2,3,49
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,3180,4,3,2,1,2,29
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,6549,8,8,7,2,29,28
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,6388,14,0,0,2,8,33
+Research & Development,Medical,Manager,Single,Male,11244,10,5,0,3,10,32
+Research & Development,Medical,Manager,Divorced,Female,16032,26,14,12,4,11,54
+Research & Development,Technical Degree,Research Scientist,Single,Male,2362,11,9,7,1,1,29
+Research & Development,Life Sciences,Research Director,Married,Male,16328,24,20,17,4,28,44
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,8376,9,2,2,3,6,39
+Sales,Life Sciences,Manager,Married,Female,16606,23,13,1,4,3,46
+Research & Development,Life Sciences,Healthcare Representative,Single,Female,8606,11,11,3,3,16,35
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2272,5,4,2,2,20,23
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2018,15,5,0,1,9,40
+Sales,Technical Degree,Sales Executive,Married,Male,7083,10,10,6,3,1,34
+Research & Development,Life Sciences,Research Scientist,Single,Female,4084,7,7,7,1,3,31
+Research & Development,Medical,Research Director,Single,Male,14411,32,32,9,4,22,50
+Sales,Technical Degree,Sales Representative,Married,Male,2308,12,11,7,1,7,34
+Research & Development,Medical,Laboratory Technician,Married,Male,4841,4,1,0,1,2,42
+Research & Development,Medical,Research Scientist,Married,Male,4285,10,10,7,2,13,37
+Research & Development,Other,Healthcare Representative,Married,Female,9715,9,7,7,2,8,29
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,4320,5,5,2,2,25,33
+Research & Development,Technical Degree,Research Scientist,Married,Male,2132,8,5,3,1,28,45
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,10124,24,20,9,3,2,42
+Sales,Medical,Sales Executive,Married,Male,5473,9,8,1,2,9,40
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,5207,15,15,7,2,28,33
+Human Resources,Medical,Manager,Single,Male,16437,21,21,7,4,6,40
+Research & Development,Technical Degree,Laboratory Technician,Divorced,Male,2296,2,1,0,1,21,24
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,4069,8,2,2,2,8,40
+Research & Development,Technical Degree,Healthcare Representative,Divorced,Male,7441,10,10,7,3,1,45
+Sales,Life Sciences,Sales Representative,Married,Female,2430,6,5,2,1,28,35
+Research & Development,Life Sciences,Research Scientist,Married,Female,5878,12,7,5,2,5,32
+Sales,Life Sciences,Sales Representative,Single,Male,2644,7,3,2,1,2,36
+Sales,Life Sciences,Sales Executive,Divorced,Female,6439,18,8,7,2,16,48
+Research & Development,Life Sciences,Research Scientist,Married,Male,2451,5,1,0,1,9,29
+Sales,Life Sciences,Sales Executive,Married,Male,6392,8,2,2,2,8,33
+Sales,Life Sciences,Sales Executive,Married,Male,9714,10,10,7,2,1,30
+Human Resources,Human Resources,Human Resources,Married,Male,6077,10,6,2,2,10,38
+Research & Development,Medical,Laboratory Technician,Single,Male,2450,3,3,2,1,1,35
+Sales,Technical Degree,Sales Executive,Married,Male,9250,9,4,3,3,29,30
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Female,2074,1,1,0,1,2,35
+Research & Development,Technical Degree,Manufacturing Director,Married,Female,10169,34,33,9,3,2,53
+Research & Development,Medical,Manufacturing Director,Married,Male,4855,7,5,4,2,2,38
+Research & Development,Technical Degree,Research Scientist,Married,Male,4087,9,6,2,2,1,32
+Research & Development,Other,Research Scientist,Married,Female,2367,10,8,6,1,15,48
+Research & Development,Medical,Research Scientist,Single,Male,2972,1,1,0,1,7,34
+Sales,Marketing,Manager,Married,Male,19586,36,36,13,5,26,55
+Research & Development,Life Sciences,Research Scientist,Married,Male,5484,9,2,1,2,1,34
+Research & Development,Life Sciences,Research Scientist,Married,Female,2061,1,1,0,1,3,26
+Sales,Life Sciences,Sales Executive,Married,Male,9924,10,9,7,2,14,38
+Sales,Life Sciences,Sales Executive,Single,Female,4198,8,3,2,2,16,38
+Sales,Life Sciences,Sales Executive,Single,Female,6815,15,1,0,2,1,36
+Research & Development,Medical,Laboratory Technician,Single,Male,4723,10,10,5,1,3,29
+Research & Development,Medical,Healthcare Representative,Single,Female,6142,10,5,4,2,10,35
+Sales,Medical,Sales Executive,Married,Male,8237,11,7,6,3,6,39
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,8853,6,6,3,2,2,29
+Sales,Marketing,Manager,Married,Male,19331,27,1,0,5,9,50
+Research & Development,Technical Degree,Research Scientist,Married,Male,2073,4,2,2,1,10,23
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,5562,9,3,2,2,6,36
+Research & Development,Other,Manager,Single,Male,19613,24,1,1,5,9,42
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,3407,10,10,8,2,28,35
+Research & Development,Technical Degree,Healthcare Representative,Married,Male,5063,8,8,7,2,10,34
+Sales,Life Sciences,Sales Executive,Married,Female,4639,5,5,2,2,14,40
+Research & Development,Technical Degree,Laboratory Technician,Divorced,Male,4876,8,6,2,1,27,43
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2690,1,1,1,1,7,35
+Sales,Life Sciences,Manager,Single,Male,17567,27,26,12,4,1,46
+Research & Development,Medical,Laboratory Technician,Married,Male,2408,1,1,0,1,24,28
+Research & Development,Other,Research Scientist,Married,Female,2814,4,4,3,1,26,22
+Research & Development,Medical,Healthcare Representative,Married,Male,11245,32,30,13,4,20,50
+Research & Development,Other,Research Scientist,Married,Female,3312,6,3,2,1,5,32
+Research & Development,Medical,Research Director,Divorced,Female,19049,23,22,10,5,7,44
+Research & Development,Medical,Research Scientist,Married,Male,2141,6,6,1,1,7,30
+Research & Development,Medical,Laboratory Technician,Single,Female,5769,10,10,4,2,5,45
+Sales,Marketing,Sales Executive,Married,Male,4385,10,10,5,2,26,45
+Sales,Other,Sales Executive,Single,Male,5332,10,5,3,2,2,31
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,4663,7,3,1,2,12,36
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Male,4724,9,9,2,2,10,34
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,3211,10,9,4,1,25,49
+Research & Development,Medical,Manufacturing Director,Married,Male,5377,10,7,7,2,10,39
+Research & Development,Other,Laboratory Technician,Divorced,Male,4066,7,7,7,1,19,27
+Research & Development,Life Sciences,Research Scientist,Married,Male,5208,16,16,10,2,18,35
+Research & Development,Medical,Manufacturing Director,Divorced,Female,4877,6,5,0,2,27,28
+Research & Development,Medical,Research Scientist,Single,Male,3117,3,2,2,1,5,21
+Sales,Medical,Sales Representative,Single,Female,1569,0,0,0,1,3,18
+Human Resources,Life Sciences,Manager,Married,Female,19658,27,5,0,5,26,47
+Research & Development,Medical,Laboratory Technician,Divorced,Male,3069,11,10,7,2,3,39
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,10435,18,18,12,3,15,40
+Research & Development,Life Sciences,Healthcare Representative,Married,Female,4148,15,14,9,2,8,35
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,5768,9,4,2,2,19,37
+Research & Development,Medical,Manufacturing Director,Single,Female,5042,10,9,8,2,4,39
+Research & Development,Other,Manufacturing Director,Divorced,Female,5770,10,10,9,2,2,45
+Research & Development,Medical,Manufacturing Director,Married,Female,7756,10,5,2,3,2,38
+Sales,Medical,Sales Executive,Married,Male,10306,15,13,0,3,10,35
+Research & Development,Medical,Research Scientist,Married,Female,3936,8,8,7,1,10,37
+Research & Development,Life Sciences,Manufacturing Director,Single,Female,7945,18,4,3,3,16,40
+Human Resources,Human Resources,Human Resources,Married,Male,5743,14,10,2,2,1,44
+Research & Development,Medical,Manager,Married,Male,15202,23,2,2,4,4,48
+Sales,Medical,Sales Executive,Divorced,Male,5440,7,2,2,2,15,35
+Research & Development,Technical Degree,Research Scientist,Single,Female,3760,6,6,3,1,2,24
+Research & Development,Medical,Research Scientist,Married,Female,3517,5,3,2,1,8,27
+Research & Development,Medical,Research Scientist,Single,Male,2580,6,4,2,1,2,27
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2166,10,4,3,1,7,40
+Sales,Medical,Sales Executive,Single,Male,5869,8,5,4,2,10,29
+Research & Development,Life Sciences,Healthcare Representative,Married,Female,8008,9,3,2,3,5,36
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Male,5206,7,7,7,2,2,25
+Research & Development,Medical,Manufacturing Director,Married,Male,5295,7,5,0,2,12,39
+Research & Development,Other,Research Director,Married,Female,16413,27,4,2,4,22,49
+Research & Development,Life Sciences,Research Director,Divorced,Female,13269,19,14,11,3,17,50
+Sales,Medical,Sales Representative,Single,Female,2783,2,2,2,1,2,20
+Research & Development,Life Sciences,Research Scientist,Divorced,Female,5433,11,11,9,2,3,34
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2013,15,4,3,1,7,36
+Research & Development,Life Sciences,Healthcare Representative,Married,Female,13966,30,15,12,4,6,49
+Research & Development,Medical,Manufacturing Director,Married,Female,4374,4,3,2,2,1,36
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,6842,13,5,4,2,3,36
+Research & Development,Medical,Manager,Married,Female,17426,36,10,7,4,22,54
+Research & Development,Life Sciences,Research Director,Married,Male,17603,14,14,11,4,15,43
+Sales,Other,Sales Executive,Single,Male,4581,13,11,7,2,12,35
+Research & Development,Life Sciences,Research Scientist,Married,Male,4735,19,13,9,2,1,38
+Sales,Medical,Sales Executive,Divorced,Male,4187,10,10,9,2,5,29
+Sales,Medical,Sales Executive,Divorced,Male,5505,6,6,4,2,2,33
+Research & Development,Medical,Research Scientist,Divorced,Male,5470,10,9,6,2,2,32
+Sales,Life Sciences,Sales Executive,Married,Female,5476,10,10,2,2,5,31
+Research & Development,Medical,Laboratory Technician,Divorced,Female,2587,17,2,2,1,16,49
+Research & Development,Medical,Laboratory Technician,Single,Female,2440,4,4,3,1,2,38
+Sales,Life Sciences,Manager,Divorced,Female,15972,29,3,2,4,2,47
+Research & Development,Life Sciences,Manager,Single,Male,15379,23,8,0,4,1,49
+Sales,Life Sciences,Sales Executive,Single,Male,7082,21,2,2,3,23,41
+Sales,Life Sciences,Sales Representative,Single,Male,2728,2,2,2,1,9,20
+Sales,Life Sciences,Sales Executive,Divorced,Female,5368,7,6,2,2,16,33
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,5347,10,3,2,2,26,36
+Human Resources,Life Sciences,Human Resources,Divorced,Female,3195,8,2,2,1,1,44
+Research & Development,Medical,Laboratory Technician,Single,Male,3989,5,5,2,1,8,23
+Research & Development,Medical,Laboratory Technician,Married,Female,3306,7,0,0,1,4,38
+Research & Development,Medical,Healthcare Representative,Married,Male,7005,11,4,2,3,24,53
+Sales,Medical,Sales Representative,Married,Female,2655,19,9,7,1,7,48
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,1393,1,1,0,1,2,32
+Research & Development,Medical,Laboratory Technician,Single,Male,2570,7,7,7,1,7,26
+Research & Development,Technical Degree,Research Scientist,Divorced,Male,3537,8,4,2,1,22,55
+Research & Development,Medical,Laboratory Technician,Married,Male,3986,15,15,13,2,5,34
+Research & Development,Medical,Healthcare Representative,Divorced,Male,10883,19,1,0,3,1,60
+Research & Development,Medical,Laboratory Technician,Married,Male,2028,14,14,13,1,21,33
+Sales,Medical,Sales Executive,Divorced,Male,9525,6,6,3,2,1,37
+Research & Development,Life Sciences,Research Scientist,Married,Female,2929,10,10,7,1,19,34
+Sales,Life Sciences,Sales Representative,Divorced,Male,2275,3,3,2,1,7,23
+Research & Development,Life Sciences,Healthcare Representative,Married,Female,7879,9,8,7,3,2,44
+Research & Development,Medical,Research Scientist,Single,Male,4930,6,5,4,1,2,35
+Sales,Medical,Sales Executive,Married,Male,7847,10,10,8,2,2,43
+Research & Development,Medical,Research Scientist,Married,Male,4401,5,5,4,1,9,24
+Sales,Marketing,Sales Executive,Single,Male,9241,10,10,7,3,6,41
+Research & Development,Medical,Laboratory Technician,Married,Female,2974,9,5,2,1,9,29
+Sales,Life Sciences,Sales Representative,Single,Female,4502,17,13,7,2,2,36
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,10748,25,23,4,3,1,45
+Human Resources,Human Resources,Human Resources,Married,Male,1555,1,1,0,1,22,24
+Sales,Life Sciences,Sales Executive,Married,Male,12936,25,23,10,4,9,47
+Research & Development,Medical,Laboratory Technician,Married,Male,2305,3,3,2,1,17,26
+Research & Development,Technical Degree,Research Director,Single,Female,16704,21,21,6,4,28,45
+Research & Development,Life Sciences,Research Scientist,Married,Male,3433,10,5,3,1,10,32
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,3477,6,5,3,1,2,31
+Human Resources,Human Resources,Human Resources,Married,Male,6430,10,3,2,2,4,41
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,6516,18,1,0,2,8,40
+Research & Development,Medical,Laboratory Technician,Divorced,Male,3907,6,6,2,1,29,24
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,5562,19,10,9,2,13,46
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,6883,17,7,7,2,27,35
+Research & Development,Life Sciences,Research Scientist,Married,Male,2862,10,10,8,1,16,30
+Sales,Marketing,Sales Executive,Married,Male,4978,4,1,0,2,2,47
+Sales,Life Sciences,Sales Executive,Divorced,Male,10368,13,10,3,3,2,46
+Sales,Marketing,Sales Executive,Divorced,Male,6134,16,2,2,2,13,36
+Sales,Life Sciences,Sales Executive,Single,Male,6735,10,0,0,2,1,32
+Research & Development,Medical,Laboratory Technician,Single,Female,3295,3,3,2,1,4,23
+Research & Development,Technical Degree,Manufacturing Director,Single,Female,5238,9,5,4,2,24,31
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,6472,9,9,8,2,1,39
+Sales,Life Sciences,Sales Executive,Married,Male,9610,10,4,2,3,19,32
+Sales,Medical,Manager,Single,Male,19833,21,21,8,5,7,40
+Human Resources,Life Sciences,Human Resources,Married,Female,9756,9,5,3,3,4,45
+Research & Development,Technical Degree,Research Scientist,Single,Female,4968,10,9,7,1,2,30
+Human Resources,Medical,Human Resources,Married,Male,2145,3,2,1,1,10,24
+Human Resources,Human Resources,Human Resources,Divorced,Female,2180,6,4,2,1,8,30
+Sales,Technical Degree,Sales Executive,Married,Male,8346,6,5,2,2,5,31
+Research & Development,Medical,Research Scientist,Single,Female,3445,6,6,4,1,8,27
+Sales,Marketing,Sales Representative,Single,Female,2760,2,2,2,1,9,29
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,6294,10,3,2,2,1,29
+Sales,Marketing,Sales Executive,Divorced,Male,7140,12,7,7,3,15,30
+Research & Development,Medical,Research Scientist,Married,Male,2932,6,5,2,1,2,34
+Sales,Marketing,Sales Executive,Single,Female,5147,13,11,7,2,2,33
+Sales,Marketing,Sales Executive,Single,Female,4507,8,5,4,2,11,49
+Sales,Life Sciences,Sales Executive,Single,Female,8564,11,0,0,3,16,33
+Research & Development,Medical,Laboratory Technician,Married,Female,2468,9,6,5,1,2,38
+Sales,Marketing,Sales Executive,Married,Male,8161,10,1,0,3,16,31
+Research & Development,Technical Degree,Research Scientist,Divorced,Female,2109,1,1,0,1,4,29
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,5294,10,7,7,2,16,30
+Research & Development,Technical Degree,Research Scientist,Single,Male,2718,12,7,7,1,5,32
+Research & Development,Medical,Healthcare Representative,Married,Male,5811,15,1,0,2,18,38
+Research & Development,Technical Degree,Research Scientist,Married,Male,2437,6,1,0,1,17,43
+Research & Development,Medical,Laboratory Technician,Divorced,Male,2766,7,5,4,1,12,42
+Research & Development,Medical,Research Director,Married,Male,19038,34,1,0,5,2,55
+Research & Development,Technical Degree,Research Scientist,Divorced,Male,3055,11,9,7,2,4,33
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,2289,5,5,4,1,9,41
+Sales,Life Sciences,Sales Executive,Divorced,Male,4001,15,15,7,2,10,34
+Research & Development,Medical,Manufacturing Director,Married,Female,12965,27,3,2,4,1,53
+Human Resources,Life Sciences,Human Resources,Single,Male,3539,10,9,8,1,2,43
+Sales,Life Sciences,Sales Executive,Single,Female,6029,6,2,2,2,3,34
+Sales,Marketing,Sales Representative,Single,Male,2679,1,1,0,1,7,21
+Research & Development,Other,Laboratory Technician,Married,Female,3702,5,5,4,1,6,38
+Research & Development,Medical,Laboratory Technician,Married,Female,2398,1,1,0,1,8,22
+Sales,Marketing,Sales Executive,Married,Female,5468,13,12,7,2,29,31
+Research & Development,Technical Degree,Manager,Married,Female,13116,15,2,2,3,3,51
+Sales,Marketing,Sales Executive,Married,Male,4189,5,5,3,2,9,37
+Research & Development,Medical,Research Director,Divorced,Male,19328,24,2,2,5,2,46
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,8321,15,12,7,3,10,36
+Research & Development,Medical,Research Scientist,Divorced,Male,2342,6,5,3,1,1,44
+Human Resources,Other,Human Resources,Divorced,Male,4071,19,10,7,2,8,37
+Sales,Life Sciences,Sales Executive,Single,Male,5813,10,10,7,2,27,35
+Research & Development,Life Sciences,Research Scientist,Married,Male,3143,14,10,6,1,8,33
+Research & Development,Life Sciences,Research Scientist,Married,Male,2044,5,5,3,1,1,28
+Research & Development,Medical,Research Director,Single,Male,13464,9,4,2,3,10,39
+Sales,Life Sciences,Sales Executive,Single,Male,7991,6,2,2,2,26,46
+Research & Development,Life Sciences,Laboratory Technician,Married,Female,3377,7,4,2,1,2,40
+Research & Development,Medical,Healthcare Representative,Married,Male,5538,10,0,0,2,13,42
+Research & Development,Medical,Manufacturing Director,Divorced,Male,5762,15,7,7,2,2,35
+Human Resources,Human Resources,Human Resources,Divorced,Male,2592,13,11,8,1,2,38
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,5346,11,7,7,2,9,34
+Research & Development,Medical,Manufacturing Director,Single,Male,4213,10,10,8,2,10,37
+Sales,Life Sciences,Sales Executive,Divorced,Male,4127,7,2,2,2,20,39
+Research & Development,Life Sciences,Research Scientist,Single,Male,2438,7,3,2,1,9,43
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,6870,11,3,2,2,5,41
+Sales,Marketing,Sales Executive,Divorced,Female,10447,23,22,5,3,4,41
+Research & Development,Medical,Manufacturing Director,Single,Female,9667,9,7,2,3,10,30
+Human Resources,Medical,Human Resources,Married,Female,2148,6,5,4,1,20,26
+Research & Development,Medical,Healthcare Representative,Married,Female,8926,13,9,7,2,21,46
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Female,6513,12,5,3,2,1,40
+Sales,Technical Degree,Sales Executive,Married,Male,6799,10,10,8,2,8,34
+Sales,Medical,Manager,Divorced,Male,16291,37,16,14,4,2,58
+Research & Development,Medical,Laboratory Technician,Married,Male,2705,6,5,3,1,23,35
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Female,10333,28,22,10,3,4,47
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Female,4448,15,7,7,2,12,40
+Research & Development,Medical,Research Scientist,Married,Female,6854,14,7,7,2,7,54
+Sales,Marketing,Sales Executive,Married,Female,9637,9,3,2,3,7,31
+Research & Development,Medical,Research Scientist,Married,Female,3591,3,3,2,1,1,28
+Sales,Marketing,Sales Representative,Married,Female,5405,20,4,3,2,2,38
+Sales,Medical,Sales Executive,Single,Male,4684,5,5,2,2,10,26
+Research & Development,Life Sciences,Research Director,Married,Male,15787,23,2,2,4,15,58
+Research & Development,Medical,Research Scientist,Single,Female,1514,0,0,0,1,14,18
+Human Resources,Human Resources,Human Resources,Married,Male,2956,2,1,0,1,18,31
+Human Resources,Human Resources,Human Resources,Divorced,Male,2335,4,2,0,1,13,29
+Sales,Life Sciences,Sales Executive,Married,Female,5154,10,8,7,2,2,45
+Research & Development,Other,Research Scientist,Married,Female,6962,15,1,0,2,2,36
+Sales,Life Sciences,Sales Executive,Married,Male,5675,7,7,7,2,2,43
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,2379,6,5,2,1,5,27
+Research & Development,Medical,Laboratory Technician,Married,Male,3812,11,11,10,1,20,29
+Sales,Marketing,Sales Executive,Single,Male,4648,4,0,0,2,10,32
+Research & Development,Technical Degree,Research Scientist,Married,Male,2936,10,6,3,1,10,42
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,2105,7,2,0,1,9,47
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Male,8578,12,9,7,3,2,46
+Human Resources,Life Sciences,Human Resources,Divorced,Male,2706,3,3,2,1,1,28
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,6384,11,7,6,2,29,29
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,3968,8,0,0,1,8,42
+Sales,Marketing,Sales Executive,Single,Male,9907,7,2,2,2,2,32
+Sales,Technical Degree,Sales Executive,Divorced,Female,13225,25,19,8,4,3,46
+Sales,Medical,Sales Representative,Married,Female,3540,9,9,8,2,23,27
+Human Resources,Medical,Human Resources,Married,Male,2804,1,1,0,1,6,29
+Research & Development,Medical,Manager,Married,Female,19392,21,16,14,5,6,43
+Research & Development,Life Sciences,Research Director,Married,Male,19665,29,22,9,5,10,48
+Research & Development,Life Sciences,Research Scientist,Single,Male,2439,1,1,0,1,24,29
+Sales,Life Sciences,Sales Executive,Married,Female,7314,14,8,7,3,10,46
+Research & Development,Life Sciences,Research Scientist,Married,Female,4774,8,7,3,1,15,27
+Research & Development,Other,Research Scientist,Divorced,Male,3902,7,2,2,2,19,39
+Research & Development,Technical Degree,Research Scientist,Married,Male,2662,19,5,4,1,2,55
+Sales,Medical,Sales Representative,Married,Female,2856,1,1,0,1,3,28
+Sales,Medical,Sales Representative,Single,Male,1081,1,1,0,1,9,30
+Research & Development,Life Sciences,Research Scientist,Single,Male,2472,1,1,0,1,7,22
+Sales,Technical Degree,Sales Executive,Married,Female,5673,10,10,7,2,10,36
+Research & Development,Life Sciences,Laboratory Technician,Divorced,Male,4197,10,10,2,2,20,31
+Sales,Life Sciences,Sales Executive,Married,Male,9713,9,5,0,3,4,34
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2062,11,3,2,1,7,29
+Research & Development,Medical,Research Scientist,Married,Male,4284,16,5,4,2,7,37
+Research & Development,Other,Manufacturing Director,Married,Female,4788,4,3,2,2,16,35
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,5906,10,9,8,2,25,45
+Human Resources,Human Resources,Human Resources,Single,Male,3886,10,10,8,2,2,36
+Research & Development,Life Sciences,Manager,Divorced,Male,16823,22,19,16,4,1,40
+Research & Development,Life Sciences,Research Scientist,Married,Female,2933,1,1,0,1,1,26
+Sales,Medical,Sales Executive,Single,Female,6500,9,8,7,2,2,27
+Research & Development,Medical,Manager,Divorced,Female,17174,24,22,7,4,22,48
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,5033,10,2,2,2,1,44
+Research & Development,Technical Degree,Research Scientist,Married,Male,2307,5,5,0,1,16,34
+Research & Development,Life Sciences,Laboratory Technician,Single,Male,2587,5,4,0,1,24,56
+Sales,Marketing,Sales Executive,Married,Male,5507,12,4,3,2,17,36
+Sales,Marketing,Sales Executive,Married,Female,4393,14,5,4,2,8,41
+Research & Development,Medical,Research Director,Married,Male,13348,18,13,7,3,6,42
+Sales,Medical,Sales Executive,Divorced,Female,6583,8,5,4,2,10,31
+Sales,Medical,Sales Executive,Married,Female,8103,9,4,1,2,3,34
+Research & Development,Medical,Laboratory Technician,Divorced,Female,3978,4,2,2,1,4,31
+Research & Development,Other,Laboratory Technician,Married,Male,2544,8,7,7,1,6,26
+Research & Development,Medical,Healthcare Representative,Single,Male,5399,12,4,3,2,1,45
+Sales,Marketing,Sales Executive,Single,Male,5487,10,10,9,2,10,33
+Sales,Life Sciences,Sales Executive,Married,Male,6834,7,7,7,2,1,28
+Sales,Technical Degree,Sales Representative,Single,Male,1091,1,1,0,1,24,29
+Sales,Life Sciences,Sales Executive,Married,Female,5736,10,3,2,2,21,39
+Research & Development,Technical Degree,Research Scientist,Married,Male,2226,6,5,2,1,2,27
+Research & Development,Other,Research Scientist,Married,Male,5747,16,15,11,2,22,34
+Sales,Marketing,Sales Executive,Single,Female,9854,6,2,2,2,13,28
+Research & Development,Technical Degree,Research Scientist,Married,Male,5467,16,8,7,2,14,47
+Sales,Marketing,Sales Executive,Married,Female,5380,6,0,0,2,11,56
+Research & Development,Medical,Manufacturing Director,Married,Male,5151,10,10,9,2,9,39
+Research & Development,Medical,Research Scientist,Divorced,Female,2133,20,20,7,2,8,38
+Sales,Life Sciences,Manager,Married,Female,17875,29,1,0,4,21,58
+Research & Development,Life Sciences,Research Scientist,Single,Female,2432,8,4,3,1,5,32
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,4771,10,5,3,1,9,38
+Research & Development,Life Sciences,Research Director,Married,Male,19161,28,5,3,5,2,49
+Sales,Marketing,Sales Executive,Divorced,Male,5087,14,0,0,2,12,42
+Human Resources,Human Resources,Human Resources,Married,Female,2863,1,1,0,1,22,27
+Sales,Medical,Sales Executive,Married,Male,5561,6,5,4,2,18,35
+Research & Development,Medical,Research Scientist,Single,Male,2144,5,5,4,1,16,28
+Research & Development,Medical,Research Scientist,Divorced,Male,3065,4,4,3,1,3,31
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2810,5,5,2,1,9,36
+Sales,Marketing,Sales Executive,Single,Male,9888,14,14,1,3,1,34
+Sales,Medical,Sales Executive,Divorced,Male,8628,9,8,1,3,13,34
+Research & Development,Medical,Laboratory Technician,Single,Male,2867,8,7,6,1,1,26
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,5373,6,5,2,2,1,29
+Research & Development,Medical,Healthcare Representative,Divorced,Female,6667,9,5,2,2,15,32
+Research & Development,Life Sciences,Research Scientist,Married,Male,5003,10,10,7,2,1,31
+Research & Development,Technical Degree,Laboratory Technician,Divorced,Male,2367,6,4,3,1,17,28
+Sales,Life Sciences,Sales Representative,Single,Male,2858,20,1,0,1,1,38
+Sales,Life Sciences,Sales Executive,Married,Female,5204,10,10,9,2,7,35
+Sales,Marketing,Sales Executive,Single,Male,4105,7,7,7,2,9,27
+Research & Development,Life Sciences,Manufacturing Director,Single,Male,9679,8,1,0,2,5,32
+Sales,Marketing,Sales Executive,Married,Male,5617,10,10,8,2,26,31
+Sales,Life Sciences,Sales Executive,Single,Male,10448,15,2,2,3,24,53
+Research & Development,Life Sciences,Research Scientist,Married,Female,2897,9,4,3,2,9,54
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,5968,9,9,8,2,7,33
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,7510,10,10,9,3,11,43
+Human Resources,Other,Human Resources,Married,Male,2991,7,6,2,1,1,38
+Human Resources,Human Resources,Manager,Married,Male,19636,35,10,4,5,26,55
+Research & Development,Medical,Laboratory Technician,Divorced,Female,1129,1,1,0,1,2,31
+Sales,Marketing,Sales Executive,Single,Male,13341,21,20,10,4,15,39
+Research & Development,Life Sciences,Research Scientist,Single,Male,4332,20,20,7,2,23,42
+Research & Development,Medical,Research Director,Married,Female,11031,13,11,8,3,10,31
+Research & Development,Medical,Manufacturing Director,Single,Female,4440,9,5,4,2,10,54
+Research & Development,Life Sciences,Healthcare Representative,Single,Male,4617,4,4,2,2,1,24
+Research & Development,Other,Laboratory Technician,Single,Male,2647,5,5,4,1,12,23
+Research & Development,Technical Degree,Laboratory Technician,Married,Female,6323,10,10,4,2,11,40
+Sales,Marketing,Sales Executive,Married,Female,5677,15,11,10,2,2,40
+Human Resources,Human Resources,Human Resources,Married,Female,2187,6,2,2,1,2,25
+Research & Development,Medical,Laboratory Technician,Married,Male,3748,12,12,7,1,1,30
+Research & Development,Other,Laboratory Technician,Divorced,Male,3977,7,2,2,1,2,25
+Research & Development,Medical,Healthcare Representative,Single,Male,8633,25,17,11,3,25,47
+Research & Development,Medical,Laboratory Technician,Divorced,Male,2008,1,1,0,1,1,33
+Sales,Life Sciences,Sales Executive,Married,Male,4440,16,15,8,2,1,38
+Sales,Life Sciences,Sales Representative,Married,Male,3067,3,2,2,1,2,31
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,5321,10,8,7,2,6,38
+Research & Development,Life Sciences,Research Scientist,Divorced,Male,5410,9,4,2,2,18,42
+Research & Development,Life Sciences,Research Scientist,Married,Male,2782,12,5,0,1,1,41
+Research & Development,Medical,Research Director,Married,Female,11957,14,13,12,3,1,47
+Research & Development,Medical,Laboratory Technician,Married,Male,2660,5,2,2,1,11,35
+Research & Development,Life Sciences,Research Scientist,Single,Male,3375,4,3,2,1,1,22
+Research & Development,Medical,Research Scientist,Single,Male,5098,10,10,8,2,9,35
+Research & Development,Medical,Healthcare Representative,Married,Female,4878,10,9,1,2,15,33
+Research & Development,Life Sciences,Laboratory Technician,Single,Female,2837,6,6,1,1,29,32
+Research & Development,Life Sciences,Laboratory Technician,Married,Male,2406,8,1,0,1,1,40
+Sales,Medical,Sales Representative,Married,Male,2269,3,2,2,1,1,32
+Research & Development,Life Sciences,Research Scientist,Single,Male,4108,18,7,7,2,24,39
+Research & Development,Medical,Research Director,Married,Female,13206,20,18,11,3,10,38
+Sales,Marketing,Sales Executive,Married,Female,10422,14,14,7,3,1,32
+Research & Development,Life Sciences,Research Director,Married,Female,13744,16,16,8,3,10,37
+Sales,Other,Sales Executive,Divorced,Female,4907,6,5,4,2,8,25
+Sales,Life Sciences,Sales Representative,Divorced,Male,3482,16,9,0,1,29,52
+Research & Development,Medical,Research Scientist,Single,Male,2436,6,4,2,1,1,44
+Sales,Medical,Sales Representative,Single,Male,2380,2,2,2,1,5,21
+Research & Development,Life Sciences,Manager,Single,Male,19431,21,6,3,5,9,39
+Sales,Marketing,Sales Representative,Married,Male,1790,1,1,0,1,9,23
+Sales,Medical,Sales Executive,Married,Female,7644,10,9,4,3,3,36
+Research & Development,Life Sciences,Manufacturing Director,Divorced,Female,5131,18,4,2,2,4,36
+Research & Development,Life Sciences,Healthcare Representative,Divorced,Male,6306,13,13,9,2,1,56
+Research & Development,Medical,Research Scientist,Married,Male,4787,4,2,2,1,1,29
+Research & Development,Life Sciences,Manager,Married,Male,18880,24,22,14,5,2,42
+Research & Development,Technical Degree,Laboratory Technician,Married,Male,2339,14,10,8,1,7,56
+Research & Development,Life Sciences,Manufacturing Director,Married,Female,13570,21,20,10,4,28,41
+Sales,Marketing,Sales Executive,Married,Female,6712,8,8,7,2,28,34
+Sales,Marketing,Sales Executive,Divorced,Male,5406,15,15,11,2,15,36
+Sales,Life Sciences,Sales Executive,Divorced,Male,8938,14,5,4,2,3,41
+Research & Development,Technical Degree,Research Scientist,Single,Male,2439,4,4,2,1,2,32
+Human Resources,Life Sciences,Human Resources,Single,Female,8837,9,9,7,3,26,35
+Sales,Life Sciences,Sales Executive,Married,Female,5343,10,10,9,2,10,38
+Sales,Life Sciences,Sales Executive,Divorced,Male,6728,12,6,1,2,1,50
+Sales,Marketing,Sales Executive,Married,Female,6652,8,6,0,2,11,36
+Sales,Life Sciences,Sales Executive,Single,Female,4850,8,5,1,2,20,45
+Research & Development,Life Sciences,Research Scientist,Single,Male,2809,8,2,2,1,2,40
+Research & Development,Life Sciences,Healthcare Representative,Married,Male,5689,10,10,2,2,18,35
+Research & Development,Medical,Research Scientist,Married,Female,2001,20,5,2,1,2,40
+Research & Development,Life Sciences,Research Scientist,Married,Female,2977,4,4,1,1,1,35
+Research & Development,Other,Laboratory Technician,Married,Male,4025,10,4,3,2,13,29
+Research & Development,Medical,Research Scientist,Single,Female,3785,5,5,4,1,28,29
+Sales,Marketing,Sales Executive,Divorced,Male,10854,20,3,0,3,28,50
+Sales,Marketing,Sales Executive,Married,Female,12031,21,20,6,4,24,39
+Research & Development,Medical,Manufacturing Director,Single,Male,9936,10,9,7,2,5,31
+Sales,Other,Sales Representative,Single,Female,2966,5,4,0,1,5,26
+Research & Development,Medical,Laboratory Technician,Married,Male,2571,17,5,3,2,23,36
+Research & Development,Medical,Healthcare Representative,Married,Male,9991,9,7,7,3,6,39
+Research & Development,Life Sciences,Manufacturing Director,Married,Male,6142,6,6,3,2,4,27
+Sales,Medical,Sales Executive,Married,Male,5390,17,9,8,2,2,49
+Research & Development,Medical,Laboratory Technician,Married,Male,4404,6,4,2,2,8,34
