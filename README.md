@@ -154,7 +154,7 @@ predictedIncome(3, 5, 7, 9)  # Prédiction pour un profil donné
 
  Limites identifiées
 
-1. R² relativement faible (26.45%)** : 
+1. R² relativement faible (26.45%) : 
    - Beaucoup de variance inexpliquée
    - Variables importantes manquantes (performance, certifications, spécialisation)
 
